@@ -12,6 +12,7 @@ see also: Repos with tag [android](https://github.com/MDecker-MobileComputing?ta
 
 | Name | Repo URL | Description |
 | ---- | -------- | ----------- |
+| `AbkVerzMitRoom` | [Link](https://github.com/MDecker-MobileComputing/Android_AbkVerzMitRoom) | App to demonstrate 1:n relationships when using Room; [GitHub Actions Workflow]([https://github.com/MDecker-MobileComputing/Android_RestClientDemo/tree/master/.github/workflows](https://github.com/MDecker-MobileComputing/Android_AbkVerzMitRoom/tree/master/.github/workflows)) |
 | `ActivityLifecycleDemo` | [Link](https://github.com/MDecker-MobileComputing/Android_ActivityLifecycleDemo) | App to demonstrate lifecycle methods of an activity |
 | `DatumsDifferenz` | [Link](https://github.com/MDecker-MobileComputing/Android_DatumsDifferenz) | App with [DatePicker](https://developer.android.com/reference/android/widget/DatePicker) element, event handling to be added as exercise |
 | `EigenerImpliziterIntent` | [Link](https://github.com/MDecker-MobileComputing/Android_EigenerImpliziterIntent) | Repository contains two apps: one for sending a custom intent, and the other one for receiving it |
