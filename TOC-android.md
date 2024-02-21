@@ -17,7 +17,7 @@ see also: Repos with tag [android](https://github.com/MDecker-MobileComputing?ta
 | `DatumsDifferenz` | [Link](https://github.com/MDecker-MobileComputing/Android_DatumsDifferenz) | App with [DatePicker](https://developer.android.com/reference/android/widget/DatePicker) element, event handling to be added as exercise |
 | `DisplayAnpassungen` | [Link](https://github.com/MDecker-MobileComputing/Android_DisplayAnpassungen) | App that adapts itself to different display resolutions; [GitHub Actions Workflow](https://github.com/MDecker-MobileComputing/Android_DisplayAnpassungen/tree/master/.github/workflows) |
 | `EigenerImpliziterIntent` | [Link](https://github.com/MDecker-MobileComputing/Android_EigenerImpliziterIntent) | Repository contains two apps: one for sending a custom intent, and the other one for receiving it |
-| `Fragment` | [Link](https://github.com/MDecker-MobileComputing/Android_Fragment) | App to demonstrate using fragments on UI | 
+| `Fragment` | [Link](https://github.com/MDecker-MobileComputing/Android_Fragment) | App to demonstrate using fragments on UI; [GitHub Actions Workflow](https://github.com/MDecker-MobileComputing/Android_Fragment/tree/master/.github/workflows) | 
 | `GlossarListView` | [Link](https://github.com/MDecker-MobileComputing/Android_GlossarListView) | App showing how to use a [ListView](https://developer.android.com/reference/android/widget/ListView) | 
 | `IntentCallback` | [Link](https://github.com/MDecker-MobileComputing/Android_IntentCallback) | App in which callback method for explicit intents is to be implemented |
 | `HalloDHBW`| [Link](https://github.com/MDecker-MobileComputing/Android_HalloDHBW) | Basic "Hello World!" app, just displays a static text |
