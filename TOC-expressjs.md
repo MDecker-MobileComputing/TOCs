@@ -16,5 +16,6 @@ see also: Repos with tag [express-js](https://github.com/MDecker-MobileComputing
 | `BMI` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_Express_BMI) | BMI-Berechnung (einfacher REST-Endpunkt) |
 | `Kantinenplan` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_Express_Kantinenplan) | REST-API mit GET und POST |
 | `KfzKennzeichen` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_Express_KfzKennzeichen) | Demo für ohne und mit Ajax |
+| `KfzKennzeichenMitLowdb` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_express_KfzKennzeichenMitLowdb) | Demo für REST-API mit Controller+Server |
 
 <br>
