@@ -18,6 +18,7 @@ see also:
 | `ActivityLifecycleDemo` | [Link](https://github.com/MDecker-MobileComputing/Android_ActivityLifecycleDemo) | App to demonstrate lifecycle methods of an activity |
 | `BootstrapAppInWebView` | [Link](https://github.com/MDecker-MobileComputing/Android_BootstrapAppInWebView) | HTML-Seite mit Bootstrap+JavaScript (Pangramm-Checker) wird im WebView-Element dargestellt |
 | `ButtonEventHandlerMoeglichkeiten` | [Link](https://github.com/MDecker-MobileComputing/Android_ButtonEventHandlerMoeglichkeiten) | Different ways to implement a button event handler; also demo for GH Actions |
+| `CustomView` | [Link](https://github.com/MDecker-MobileComputing/Android_CustomView) | Custom view for showing a bar chart |
 | `DatumsDifferenz` | [Link](https://github.com/MDecker-MobileComputing/Android_DatumsDifferenz) | App with [DatePicker](https://developer.android.com/reference/android/widget/DatePicker) element, event handling to be added as exercise |
 | `DisplayAnpassungen` | [Link](https://github.com/MDecker-MobileComputing/Android_DisplayAnpassungen) | App that adapts itself to different display resolutions |
 | `EigenerImpliziterIntent` | [Link](https://github.com/MDecker-MobileComputing/Android_EigenerImpliziterIntent) | Repository contains two apps: one for sending a custom intent, and the other one for receiving it |
