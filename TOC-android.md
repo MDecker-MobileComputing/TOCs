@@ -31,6 +31,7 @@ see also:
 | `ImpliziteIntents` | [Link](https://github.com/MDecker-MobileComputing/Android_ImpliziteIntents) | App demonstrating how to dispatch several implicit intents to start other apps |
 | `LangeBerechnungMitFortschrittsanzeige` | [Link](https://github.com/MDecker-MobileComputing/Android_LangeBerechnungMitFortschrittsanzeige) | Example for running long tasks in background thread with progress indicator |
 | `LanglaufendeOperationen` | [Link](https://github.com/MDecker-MobileComputing/Android_LanglaufendeOperationen) | Example for running long tasks in background thread |
+| `Android_LayoutWahlZurLaufzeit` | [Link](https://github.com/MDecker-MobileComputing/Android_LayoutWahlZurLaufzeit) | Layout file to be loaded determined during runtime |
 | `Lernkarten` | [Link](https://github.com/MDecker-MobileComputing/Android_Lernkarten) | Example for using [Room](https://developer.android.com/training/data-storage/room/) |
 | `LinearLayoutDemos` | [Link](https://github.com/MDecker-MobileComputing/Android_LinearLayoutDemos) | App demonstrating selected aspects of the [LinearLayout](https://developer.android.com/reference/android/widget/LinearLayout) |
 | `Mail4Myself` | [Link](https://github.com/MDecker-MobileComputing/Android_Mails4Myself) | Private repo |
