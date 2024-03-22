@@ -16,7 +16,7 @@ see also:
 | ---- | -------- | ----------- |
 | `AbkVerzMitRoom` | [Link](https://github.com/MDecker-MobileComputing/Android_AbkVerzMitRoom) | App to demonstrate 1:n relationships when using Room | 
 | `ActivityLifecycleDemo` | [Link](https://github.com/MDecker-MobileComputing/Android_ActivityLifecycleDemo) | App to demonstrate lifecycle methods of an activity |
-| `AnychartDemo` | [Link](https://github.com/MDecker-MobileComputing/Android_AnychartDemo) | Private repo; demo for charting library [AnyChart](https://www.anychart.com/technical-integrations/samples/android-charts/) | 
+| `AnyChartDemo` | [Link](https://github.com/MDecker-MobileComputing/Android_AnyChartDemo) | Private repo; demo for charting library [AnyChart](https://www.anychart.com/technical-integrations/samples/android-charts/) | 
 | `BootstrapAppInWebView` | [Link](https://github.com/MDecker-MobileComputing/Android_BootstrapAppInWebView) | HTML-Seite mit Bootstrap+JavaScript (Pangramm-Checker) wird im WebView-Element dargestellt |
 | `BroadcastReceiver` | [Link](https://github.com/MDecker-MobileComputing/Android_BroadcastReceiver) | App shows a toast if particular broadcast intents are received, e.g. "Battery Low". |
 | `ButtonEventHandlerMoeglichkeiten` | [Link](https://github.com/MDecker-MobileComputing/Android_ButtonEventHandlerMoeglichkeiten) | Different ways to implement a button event handler; also demo for GH Actions |
