@@ -8,8 +8,9 @@ see also: Repos with tag [cordova](https://github.com/MDecker-MobileComputing?ta
 
 | Name | Repo URL | Description  |
 | ---- | -------- | ------------ |
-| `Cordova_AdressbuchAuslesen`    | [Link](https://github.com/MDecker-MobileComputing/Cordova_AdressbuchAuslesen)    | Adressbuch mit Plugin auslesen |
-| `Cordova_Netzwerkinfo`          | [Link](https://github.com/MDecker-MobileComputing/Cordova_Netzwerkinfo)          | Netzwerkstatus mit Plugin auslesen | 
-| `Cordova_HalloNameMitBootstrap` | [Link](https://github.com/MDecker-MobileComputing/Cordova_HalloNameMitBootstrap) | "Hallo Name"-App mit Bootstrap |
+| `Cordova_AdressbuchAuslesen`    | [Link](https://github.com/MDecker-MobileComputing/Cordova_AdressbuchAuslesen)    | Adressbuch mit Plugin auslesen        |
+| `Cordova_Netzwerkinfo`          | [Link](https://github.com/MDecker-MobileComputing/Cordova_Netzwerkinfo)          | Netzwerkstatus mit Plugin auslesen    | 
+| `Cordova_HalloNameMitBootstrap` | [Link](https://github.com/MDecker-MobileComputing/Cordova_HalloNameMitBootstrap) | "Hallo Name"-App mit Bootstrap        |
+| `HTML_HalloCordova`             | [Link](https://github.com/MDecker-MobileComputing/HTML_HalloCordova)             | Nur Web-Content für erste Cordova-App |
 
 <br>
