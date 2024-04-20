@@ -26,6 +26,7 @@ All Maven projects are – if not mentioned otherwise – command line programs 
 | `SpringBoot_Kantinenplan`| [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Kantinenplan) | REST API for a canteen menue; [GitHub Actions Workflow](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Kantinenplan/tree/master/.github/workflows) |
 | `SpringBoot_KfzUnterscheidungszeichen` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzUnterscheidungszeichen) | REST-API for querying city/county code on German number plates (KFZ-Kennzeichen); [GH Actions Workflow mit Matrix Build](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzUnterscheidungszeichen/blob/42d4031b2f13cc0cc25ae411ae3fbe2efb6c34ce/.github/workflows/maven.yml#L10-L13) |
 | `SpringBoot_SLA` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_SLA) | Calculate allowed downtimes for SLA values, with Thymeleaf templates, to be completed as exercise; [GH Actions Workflow](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_SLA/tree/master/.github/workflows) |
+| `SpringBoot_Tagebuch` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Tagebuch) | Beispiel für `JdbcTemplate` und "Basic Authentication" |
 
 <br>
 
