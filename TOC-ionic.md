@@ -35,6 +35,7 @@ Since we use Ionic with Angular, and Angular uses TypeScript, there is also a pr
 | `PluginDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_PluginDemo) | App showing how to use several Capacitor plugins |
 | `ReorderDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Reorder) | Demo for Ionic's [Reorder](https://ionicframework.com/docs/api/reorder) element | 
 | `StringVergleich` | [Link](https://github.com/MDecker-MobileComputing/Ionic_StringVergleich) | App to compare the length of two strings entered by user, to be completed as exercise |
-| `WeitereUiKomponenten` | [Link](https://github.com/MDecker-MobileComputing/Ionic_WeitereUiKomponenten) | Demo for several UI elements provided by Ionic|
+| `WeitereUiKomponenten` | [Link](https://github.com/MDecker-MobileComputing/Ionic_WeitereUiKomponenten) | Demo for several UI elements provided by Ionic |
+| `Wuerfel` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Wuerfel) | Dice app which fetches real random data from an Web-API |
 
 <br>
