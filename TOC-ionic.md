@@ -6,7 +6,9 @@ List of all my GitHub repositories with example [Ionic](https://ionicframework.c
 
 <br>
 
-see also: Repos with tag [ionic](https://github.com/MDecker-MobileComputing?tab=repositories&q=topic%3Aionic&type=source)
+see also: 
+* Repos with tag [ionic](https://github.com/MDecker-MobileComputing?tab=repositories&q=topic%3Aionic&type=source)
+* Repos with tag [ionic & github-actions](https://github.com/MDecker-MobileComputing?tab=repositories&q=topic%3Aionic+topic%3Agithub-actions&type=source&language=&sort=)
 
 <br>
 
