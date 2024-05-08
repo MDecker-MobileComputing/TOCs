@@ -23,7 +23,7 @@ Since we use Ionic with Angular, and Angular uses TypeScript, there is also a pr
 | `ChartDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_ChartDemo) | Using [Chart.js](https://www.chartjs.org/) with Ionic |
 | `Datumsberechnung` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Datumsberechnung) | Calculate number of days between two days or add/substract number of days from a date |
 | `GeografischeEntfernung` | [Link](https://github.com/MDecker-MobileComputing/Ionic_GeografischeEntfernung) | Demo for getting current GPS location | 
-| `HalloName` | [Link](https://github.com/MDecker-MobileComputing/Ionic_HalloName) | Introductory example with event handler for button; with [GH Actions Workflow](https://github.com/MDecker-MobileComputing/Ionic_HalloName/blob/master/.github/workflows/ionic-angular-ci.yml) |
+| `HalloName` | [Link](https://github.com/MDecker-MobileComputing/Ionic_HalloName) | Introductory example with event handler for button |
 | `IataCodes` | [Link](https://github.com/MDecker-MobileComputing/Ionic_IataCodes) | App to query airport codes; demonstration for automatic tests |
 | `InformatikerSprueche`| [Link](https://github.com/MDecker-MobileComputing/Ionic_InformatikerSprueche) | Demo for translation of UI texts (i18n) |
 | `KfzKennzeichen` | [Link](https://github.com/MDecker-MobileComputing/Ionic_KfzKennzeichen) | Query county/city codes of car number plates in Germany |
