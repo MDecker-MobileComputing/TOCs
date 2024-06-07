@@ -13,6 +13,7 @@ All Maven projects are – if not mentioned otherwise – command line programs 
 | Name | Repo URL | Description |
 | ---- | -------- | ----------- |
 | `BadNews` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BadNews) | Beispiel für JPA mit Paginierung |
+| `BcryptCLI`| [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BcryptCLI) | CLI-Proggy für Verhashung von über STDIN eingegebenen Passwort mit Bcrypt |
 | `Bildergallerie` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Bildergallerie) | Beispiel für Speichern von Binärdateien (z.B. Bilder) in Datenbank mit JPA |
 | `BlogCMS` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BlogCMS) | Beispiel für CLOB mit JPA und RichtText-Editor im Frontend |
 | `Cucumber_Bruchrechnen` | [Link](https://github.com/MDecker-MobileComputing/Maven_Cucumber_Bruchrechnen) | Example for BDD with Cucumber, exercise |
