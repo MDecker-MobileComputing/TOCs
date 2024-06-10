@@ -34,7 +34,7 @@ Since we use Ionic with Angular, and Angular uses TypeScript, there is also a pr
 | `ListenDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_ListenDemo) | Presenting lists in an Ionic app |
 | `Lottozahlen` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Lottozahlen) | App to be deployed as *Progressive Web App (PWA)* |
 | `MenueDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_MenueDemo) | "Hamburger Menu" for navigation in app|
-| `PegSolitaire` | [Link](https://github.com/MDecker-MobileComputing/Ionic_PegSolitaire) | Board game [Peg Solitaire](https://en.wikipedia.org/wiki/Peg_solitaire) |
+| `PegSolitaire` | [Link](https://github.com/MDecker-MobileComputing/Ionic_PegSolitaire) | Board game [Peg Solitaire](https://en.wikipedia.org/wiki/Peg_solitaire) with Grid Layout |
 | `PipeDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_PipesDemo) | App for Angular pipes |
 | `PluginDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_PluginDemo) | App showing how to use several Capacitor plugins |
 | `ReorderDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Reorder) | Demo for Ionic's [Reorder](https://ionicframework.com/docs/api/reorder) element | 
