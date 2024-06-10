@@ -69,7 +69,7 @@ see also: Repos with tag [gh-pages](https://github.com/MDecker-MobileComputing?t
 | Web site generated with [Hexo](https://hexo.io/) | [Link](https://mdecker-mobilecomputing.github.io/Hexo-Demo/) | [Link](https://github.com/MDecker-MobileComputing/Hexo-Demo) |
 | Lottery Dice (PWA with Ionic) | [Link](https://mdecker-mobilecomputing.github.io/Ionic_Lottozahlen/) | [Link](https://github.com/MDecker-MobileComputing/Ionic_Lottozahlen) |
 | Custom icon set from [Fontello](https://fontello.com/) | [Link](https://mdecker-mobilecomputing.github.io/CSS_Fontello-Demo/) | [Link](https://github.com/MDecker-MobileComputing/CSS_Fontello-Demo) |
-| Usage of Web component | [Link](https://mdecker-mobilecomputing.github.io/WebComponent_HalloName/) | [Link](https://github.com/MDecker-MobileComputing/WebComponent_HalloName) |
+| Usage of a Web component | [Link](https://mdecker-mobilecomputing.github.io/WebComponent_HalloName/) | [Link](https://github.com/MDecker-MobileComputing/WebComponent_HalloName) |
 | JSON in JavaScript | [Link](https://mdecker-mobilecomputing.github.io/HTML_JSON_in_JavaScript/) | [Link](https://github.com/MDecker-MobileComputing/HTML_JSON_in_JavaScript) |
 | Blinking effect with generic data attribute | [Link](https://mdecker-mobilecomputing.github.io/HTML_BlinkEffekt/) | [Link](https://github.com/MDecker-MobileComputing/HTML_BlinkEffekt) |
 | Using SVG in HTML | [Link](https://mdecker-mobilecomputing.github.io/SVG_Demo/) | [Link](https://github.com/MDecker-MobileComputing/SVG_Demo) |
