@@ -48,7 +48,7 @@ see also: Repos with tag [gh-pages](https://github.com/MDecker-MobileComputing?t
 | Name | GHPages URL | Repo URL  |
 | -----| ------------| --------- |
 | Chuck Norris Facts | [Link](https://mdecker-mobilecomputing.github.io/Angular_ChuckNorrisFacts) | [Link](https://github.com/MDecker-MobileComputing/Angular_ChuckNorrisFacts) |
-| Leetspeek translator | [Link](https://mdecker-mobilecomputing.github.io/Angular_Leetspeak) | [Link](https://github.com/MDecker-MobileComputing/HTML_AndroidGlossarMitBootstrap) |
+| Leetspeek translator | [Link](https://mdecker-mobilecomputing.github.io/Angular_Leetspeak) | [Link](https://github.com/MDecker-MobileComputing/Angular_Leetspeak) |
 
 <br>
 
