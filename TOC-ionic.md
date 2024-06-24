@@ -23,6 +23,7 @@ Since we use Ionic with Angular, and Angular uses TypeScript, there is also a pr
 | `CanvasDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_CanvasDemo) | Drawing geometric shapes on a virtual canvas |
 | `ChartDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_ChartDemo) | Using [Chart.js](https://www.chartjs.org/) with Ionic |
 | `Datumsberechnung` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Datumsberechnung) | Calculate number of days between two days or add/substract number of days from a date |
+| `Farbwahl` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Farbwahl) | Demo for [UI component `ion-range` (Slider)](https://ionicframework.com/docs/api/range) |
 | `GeografischeEntfernung` | [Link](https://github.com/MDecker-MobileComputing/Ionic_GeografischeEntfernung) | Demo for getting current GPS location | 
 | `HalloName` | [Link](https://github.com/MDecker-MobileComputing/Ionic_HalloName) | Introductory example with event handler for button |
 | `IataCodes` | [Link](https://github.com/MDecker-MobileComputing/Ionic_IataCodes) | App to query IATA codes for airlines & airports to demonstrate automatic tests |
