@@ -36,7 +36,7 @@ All Maven projects are – if not mentioned otherwise – command line programs 
 | `SpringBoot_Passwortgrab` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Passwortgrab) | Simple password manager to demonstrate encryption of attribute classes and <i>Spring Data Envers</i> |
 | `SpringBoot_SLA` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_SLA) | Calculate allowed downtimes for SLA values, with Thymeleaf templates, to be completed as exercise; [GH Actions Workflow](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_SLA/tree/master/.github/workflows) |
 | `SpringBoot_Tagebuch` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Tagebuch) | Beispiel für `JdbcTemplate` und *Form-based Authentication* |
-| `SpringBoot_WebLesezeichen` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_WebLesezeichen) | Beispiel für Baumstruktor mit *Spring Data JPA* |
+| `SpringBoot_WebLesezeichen` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_WebLesezeichen) | Beispiel für Baumstruktur mit *Spring Data JPA* |
 | `SpringBoot_WebSockets` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_WebSockets) | Demo für Websockets |
 | `SpringBoot_Zitate` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Zitate) | Fuzzy-Suche mit [Apache Lucene](https://lucene.apache.org/) |
 
