@@ -15,6 +15,7 @@ see also:
 | Name | Repo URL | Description |
 | ---- | -------- | ----------- |
 | `AbkVerzMitRoom` | [Link](https://github.com/MDecker-MobileComputing/Android_AbkVerzMitRoom) | App to demonstrate 1:n relationships when using Room | 
+| `ActionBarDemo`| [Link](https://github.com/MDecker-MobileComputing/Android_ActionBarDemo) | App to demonstrate Android's [Action Bar](https://developer.android.com/develop/ui/views/components/appbar) |
 | `ActivityLifecycleDemo` | [Link](https://github.com/MDecker-MobileComputing/Android_ActivityLifecycleDemo) | App to demonstrate lifecycle methods of an activity |
 | `AnyChartDemo` | [Link](https://github.com/MDecker-MobileComputing/Android_AnyChartDemo) | Private repo; demo for charting library [AnyChart](https://www.anychart.com/technical-integrations/samples/android-charts/) | 
 | `BootstrapAppInWebView` | [Link](https://github.com/MDecker-MobileComputing/Android_BootstrapAppInWebView) | HTML-Seite mit Bootstrap+JavaScript (Pangramm-Checker) wird im WebView-Element dargestellt |
