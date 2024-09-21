@@ -41,6 +41,7 @@ see also:
 | `RessourcenDemo` | [Link](https://github.com/MDecker-MobileComputing/Android_RessourcenDemo) | Different types of resources |
 | `RestClientDemo` | [Link](https://github.com/MDecker-MobileComputing/Android_RestClientDemo) | App can call three different REST-APIs (two return JSON, the other an image) |
 | `RuntimePermissions` | [Link](https://github.com/MDecker-MobileComputing/Android_RuntimePermissions) | Demo for runtime permissions |
+| `Schimpfmeister` | [Link](https://github.com/MDecker-MobileComputing/Android_Schimpfmeister) | Android-port of [Schimpfolino](https://github.com/NikolaiRadke/Schimpfolino), demo for [ActionBar](https://developer.android.com/develop/ui/views/components/appbar) |
 | `VektorGrafiken` | [Link](https://github.com/MDecker-MobileComputing/Android_VektorGrafiken) | Vector graphics (SVG format) in Android app |
 | `Verkehrszaehler` | [Link](https://github.com/MDecker-MobileComputing/Android_Verkehrszaehler) | Simple traffic counter app to demonstrate usage of SQLite in Android |
 | `WebViewDemo` | [Link](https://github.com/MDecker-MobileComputing/Android_WebViewDemo) | Displaying external web pages in [WebView](https://developer.android.com/reference/android/webkit/WebView) element | 
