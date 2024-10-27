@@ -38,6 +38,7 @@ see also:
 | `Lernkarten` | [Link](https://github.com/MDecker-MobileComputing/Android_Lernkarten) | Example for using [Room](https://developer.android.com/training/data-storage/room/) |
 | `LinearLayoutDemos` | [Link](https://github.com/MDecker-MobileComputing/Android_LinearLayoutDemos) | App demonstrating selected aspects of the [LinearLayout](https://developer.android.com/reference/android/widget/LinearLayout) |
 | `Mail4Myself` | [Link](https://github.com/MDecker-MobileComputing/Android_Mails4Myself) | Private repo |
+| `NicknameGenerator` | [Link](https://github.com/MDecker-MobileComputing/Android_NicknameGenerator) | Demo how to display results of SQL query in RecyclerView |
 | `PegSolitaire` | [Link](https://github.com/MDecker-MobileComputing/Android_PegSolitaire) | Board game "Peg Solitaire" |
 | `RessourcenDemo` | [Link](https://github.com/MDecker-MobileComputing/Android_RessourcenDemo) | Different types of resources |
 | `RestClientDemo` | [Link](https://github.com/MDecker-MobileComputing/Android_RestClientDemo) | App can call three different REST-APIs (two return JSON, the other an image) |
