@@ -40,6 +40,7 @@ All Maven projects are – if not mentioned otherwise – command line programs 
 | `SpringBoot_WebLesezeichen` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_WebLesezeichen) | Beispiel für Baumstruktur mit *Spring Data JPA* |
 | `SpringBoot_WebSockets` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_WebSockets) | Demo für Websockets |
 | `SpringBoot_Zitate` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Zitate) | Fuzzy-Suche mit [Apache Lucene](https://lucene.apache.org/) |
+| `UrlPruefer` | [Link](https://github.com/MDecker-MobileComputing/Maven_UrlPruefer) | Syntax-Check für URL (CLI) |
 
 <br>
 
