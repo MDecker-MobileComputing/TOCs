@@ -44,6 +44,6 @@ All Maven projects are – if not mentioned otherwise – command line programs 
 
 <br>
 
-**Für Repos mit *GitHub Actions* :** Unter Repo-Settings unter "Actions | General" die "Artifact and log retention" auf 10 Tage setzen (Default ist 90 Tage).
+**Für Repos mit *GitHub Actions* :** Unter Repo-Settings unter "Actions | General" die "Artifact and log retention" auf 10 Tage setzen (der Default-Wert  hierfür ist 90 Tage).
 
 <br>
