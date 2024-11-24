@@ -17,7 +17,7 @@ All Maven projects are – if not mentioned otherwise – command line programs 
 | `Bildergallerie` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Bildergallerie) | Beispiel für Speichern von Binärdateien (z.B. Bilder) in Datenbank mit JPA |
 | `BlogCMS` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BlogCMS) | Beispiel für CLOB mit JPA und RichtText-Editor im Frontend |
 | `BruchrechnerBibliothek` | [Link](https://github.com/MDecker-MobileComputing/Maven_BruchrechnerBibliothek) | Bibliothek für Bruchrechnungen |
-| `BruchrechnerBibliothekVerwender` | [Link](Bruchhttps://github.com/MDecker-MobileComputing/Maven_BruchrechnerBibliothekVerwender) | Anwendung, die die `BruchrechnerBibliothek` verwendet |
+| `BruchrechnerBibliothekVerwender` | [Link](https://github.com/MDecker-MobileComputing/Maven_BruchrechnerBibliothekVerwender) | Anwendung, die die `BruchrechnerBibliothek` verwendet |
 | `Cucumber_Bruchrechnen` | [Link](https://github.com/MDecker-MobileComputing/Maven_Cucumber_Bruchrechnen) | Example for BDD with Cucumber, exercise |
 | `Cucumber_Datumsarithmetik` | [Link](https://github.com/MDecker-MobileComputing/Maven_Cucumber_Datumsarithmetik) | Example for BDD with Cucumber, date arithmetic |
 | `Cucumber_HashMapTest` | [Link](https://github.com/MDecker-MobileComputing/Maven_Cucumber_HashMap) | Example for BDD with Cucumber, exam preparation | 
