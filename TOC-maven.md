@@ -2,7 +2,7 @@
 
 <br>
 
-List of all my GitHub repositories with [Maven](https://maven.apache.org/) projects.
+List of all my GitHub repositories with [Maven](https://maven.apache.org/) projects (incl. "Spring Boot"-Projects).
 
 see also: Repos with tag [maven](https://github.com/MDecker-MobileComputing?tab=repositories&q=topic%3Amaven&type=source)
 
