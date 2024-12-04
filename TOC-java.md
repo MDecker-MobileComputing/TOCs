@@ -10,6 +10,6 @@ List of all my GitHub repositories with Java-Projects (Eclipse-Projects, but not
 | ---- | -------- | ----------- |
 | `BruchRechner-DebuggerDemo` | [Link](https://github.com/MDecker-MobileComputing/Java_BruchRechner-DebuggerDemo) | Kleines Java-Programm zum Bruchrechnen, das einen Fehler enthält, der mit dem Debugger gefunden werden soll |
 | `Lambda_Streams` | [Link](https://github.com/MDecker-MobileComputing/Java_Lambda_Streams) | Demo-Programme zu Lambdas und Streams |
-| `ReihenfolgeObjekterzeugung` | [Link](https://github.com/MDecker-MobileComputing/Java_ReihenfolgeObjekterzeugung) | Kleine Programme zur Demonstration Reihenfolge bei Objekterzeugung |
+| `ReihenfolgeObjekterzeugung` | [Link](https://github.com/MDecker-MobileComputing/Java_ReihenfolgeObjekterzeugung) | Kleine Programme zur Demonstration der Reihenfolge bei Objekterzeugung |
 
 <br>
