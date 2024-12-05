@@ -2,7 +2,7 @@
 
 <br>
 
-List of all my GitHub repositories with Java-Projects (Eclipse-Projects, but not Maven; for Maven projects see [here](TOC-maven.md)).
+List of all my GitHub repositories with Java-Projects (Eclipse-Projects, but not Maven; for Maven projects see [this table](TOC-maven.md)).
 
 <br>
 
