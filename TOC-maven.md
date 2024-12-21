@@ -32,6 +32,7 @@ All Maven projects are – if not mentioned otherwise – command line programs 
 | `SpringBoot_KafkaDemo` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KafkaDemo) | Demo for sending and receiving messages via [Kafka](https://kafka.apache.org/) |
 | `SpringBoot_Kantinenplan`| [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Kantinenplan) | REST API for a canteen menue |
 | `SpringBoot_KfzKennzeichen` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzKennzeichen) | KFZ-Kennzeichen mit *Spring Data JPA* |
+| `SpringBoot_KfzKennzeichenChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzKennzeichenChecker) | Überprüfung KFZ-Kennzeichen, ruft auch [diese REST-API](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzUnterscheidungszeichen) auf | 
 | `SpringBoot_KfzUnterscheidungszeichen` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzUnterscheidungszeichen) | REST-API for querying city/county code on German number plates (KFZ-Kennzeichen) |
 | `SpringBoot_LinkShortener` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_LinkShortenerMitMongoDB) | Link-Shortner mit MongoDB |
 | `SpringBoot_Literaturverwaltung` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Literaturverwaltung) | Literaturverwaltung, *Spring Data JPA* mit Vererbung zwischen Entity-Klassen |
