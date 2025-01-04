@@ -28,7 +28,7 @@ All Maven projects are – if not mentioned otherwise – command line programs 
 | `PalindromChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_Palindromchecker) | Palindrom checker, for exercise on unit testing |
 | `PangrammChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_Pangrammchecker) | Pangramm checker, example for programming with *GitHub Copilot* |
 | `RestApiServerSprueche` | [Link](https://github.com/MDecker-MobileComputing/Maven_RestApiServerSprueche) | REST-API with embedded Jetty servlet container |
-| `SpringBoot_Buchabfrage` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBuch_Buchabfrage) | Two applications to demonstrate client-side load balancing with *Spring Cloud* |
+| `SpringBoot_Buchabfrage` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Buchabfrage) | Two applications to demonstrate client-side load balancing with *Spring Cloud* |
 | `SpringBoot_BMI` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BmiBerechnung/) | REST-Endpoint für BMI-Berechnung, Demo für Session-Beans |
 | `SpringBoot_Glossar` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Glossar) | Demo for [JPA](https://en.wikipedia.org/wiki/Jakarta_Persistence) |
 | `SpringBoot_KafkaDemo` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KafkaDemo) | Demo for sending and receiving messages via [Kafka](https://kafka.apache.org/) |
