@@ -8,6 +8,7 @@ List of all my GitHub repositories with Java-Projects (Eclipse-Projects, but not
 
 | Name | Repo URL | Description |
 | ---- | -------- | ----------- |
+| `BruchStream` | [Link](https://github.com/MDecker-MobileComputing/GitHub3_Java_BruchStream) | Stream von Brüchen mit Lambda-Ausdruck filtern |
 | `BruchRechner-DebuggerDemo` | [Link](https://github.com/MDecker-MobileComputing/Java_BruchRechner-DebuggerDemo) | Kleines Java-Programm zum Bruchrechnen, das einen Fehler enthält, der mit dem Debugger gefunden werden soll |
 | `KfzStream` | [Link](https://github.com/MDecker-MobileComputing/Java_KfzStream) | Stream mit KFZ-Objekten (Kennzeichen+PS), für Übung |
 | `Lambda_Streams` | [Link](https://github.com/MDecker-MobileComputing/Java_Lambda_Streams) | Demo-Programme zu Lambdas und Streams |
