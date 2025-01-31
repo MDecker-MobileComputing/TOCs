@@ -19,6 +19,7 @@ see also: Repos with tag [express-js](https://github.com/MDecker-MobileComputing
 | `KfzKennzeichenMitLowdb` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_Express_KfzKennzeichenMitLowdb) | Demo für REST-API mit Controller+Server |
 |  `Laender` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_Express_Laender) | OpenAPI-first for REST-API, also using Winston+Morgan for logging. |
 | `LinkShortenerMitKafka` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_Express_LinkShortenerMitKafka) | Link-Shortener mit Template-Engine "nunjucks" und Kafka für Microservice-Kommunikation |
+| `LinkShortenerMitMQTT` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_Express_LinkShortenerMitMQTT) | Link-Shortener mit Template-Engine "nunjucks" und MQTT für Microservice-Kommunikation |
 | `StudiVerwaltung` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_Express_StudiVerwaltung) | Studi-Verwaltung mit Ressourcen & Collections |
 
 <br>
