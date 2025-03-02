@@ -22,6 +22,7 @@ All Maven projects are – if not mentioned otherwise – command line programs 
 | `Cucumber_Datumsarithmetik` | [Link](https://github.com/MDecker-MobileComputing/Maven_Cucumber_Datumsarithmetik) | Example for BDD with Cucumber, date arithmetic |
 | `Cucumber_HashMapTest` | [Link](https://github.com/MDecker-MobileComputing/Maven_Cucumber_HashMap) | Example for BDD with Cucumber, exam preparation | 
 | `Cucumber_StringLaenge` | [Link](https://github.com/MDecker-MobileComputing/Maven_Cucumber_StringLaenge) | Example for BDD with Cucumber, int values in steps |
+| `gRPC_BMI` | [Link](https://github.com/MDecker-MobileComputing/Maven_gRPC_BMI) | gRPC-Client zur Durchführung einer BMI-Berechnung |
 | `Kehrbruch` | [Link](https://github.com/MDecker-MobileComputing/Maven_Kehrbruch) | Simple app for refactoring exercise |
 | `LinkShortener`| [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_LinkShortener) | Simple link shortener consisting of serveral microservices |
 | `Lottozahlen` | [Link](https://github.com/MDecker-MobileComputing/Maven_Lottozahlen) | Demo for GitHub Actions; [GH Actions Workflow]([https://github.com/MDecker-MobileComputing/Maven_Palindromchecker/tree/master/.github/workflows](https://github.com/MDecker-MobileComputing/Maven_Lottozahlen/tree/master/.github/workflows)) |
