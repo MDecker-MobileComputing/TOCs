@@ -48,7 +48,7 @@ see also:
 | `VektorGrafiken` | [Link](https://github.com/MDecker-MobileComputing/Android_VektorGrafiken) | Vector graphics (SVG format) in Android app |
 | `Verkehrszaehler` | [Link](https://github.com/MDecker-MobileComputing/Android_Verkehrszaehler) | Simple traffic counter app to demonstrate usage of SQLite in Android |
 | `WebViewDemo` | [Link](https://github.com/MDecker-MobileComputing/Android_WebViewDemo) | Displaying external web pages in [WebView](https://developer.android.com/reference/android/webkit/WebView) element | 
-| `WeitereUiElemente` | [Link](https://github.com/MDecker-MobileComputing/Android_WeitereUiElemente) | Demo for several of Android's UI elements |
+| `WeitereUiElemente` | [Link](https://github.com/MDecker-MobileComputing/Android_WeitereUiElemente) | Demo for the following UI elements: Toggle Button, ProgressBar, RadioButton, CheckBox, SeekBar |
 | `Wuerfel_Fehlersuche`| [Link](https://github.com/MDecker-MobileComputing/Android_Wuerfel_Fehlersuche) | App simulating a simple dice, but to run it the error has to be fixed | 
 | `ZweiActivites` | [Link](https://github.com/MDecker-MobileComputing/Android_ZweiActivities) | Interaction between two activities with explicit intents |
 
