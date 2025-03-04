@@ -30,7 +30,7 @@ Since we use Ionic with Angular, and Angular uses TypeScript, there is also a pr
 | `InfiniteDoom` | [Link](https://github.com/MDecker-MobileComputing/Ionic_InfiniteDoom) | App that show randomly generated bad news headlines in an [infinite scroll component](https://ionicframework.com/docs/api/infinite-scroll) |
 | `InformatikerSprueche`| [Link](https://github.com/MDecker-MobileComputing/Ionic_InformatikerSprueche) | Demo for translation of UI texts (i18n) |
 | `KfzKennzeichen` | [Link](https://github.com/MDecker-MobileComputing/Ionic_KfzKennzeichen) | Query county/city codes of car number plates in Germany |
-| `KilometerUmrechnung` | [Link](https://github.com/MDecker-MobileComputing/Ionic_KilometerUmrechnung) | Transation to another page |
+| `KilometerUmrechnung` | [Link](https://github.com/MDecker-MobileComputing/Ionic_KilometerUmrechnung) | Transition to another page |
 | `KitchenTimer` | [Link](https://github.com/MDecker-MobileComputing/Ionic_KitchenTimer) | Kitchen timer app to demonstrate usage of [plugin for local notifications](https://capacitorjs.com/docs/apis/local-notifications) |
 | `ListenDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_ListenDemo) | Presenting lists in an Ionic app |
 | `Lottozahlen` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Lottozahlen) | App to be deployed as *Progressive Web App (PWA)* |
