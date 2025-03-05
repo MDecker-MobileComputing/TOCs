@@ -30,6 +30,7 @@ see also:
 | `HalloDHBW`| [Link](https://github.com/MDecker-MobileComputing/Android_HalloDHBW) | Basic "Hello World!" app, just displays a static text |
 | `HalloName` | [Link](https://github.com/MDecker-MobileComputing/Android_HalloName) | App demonstrating dialogs and toasts |
 | `Handzaehler` | [Link](https://github.com/MDecker-MobileComputing/Android_Handzaehler) | Simple [Tally Counter](https://en.wikipedia.org/wiki/Tally_counter) as example for event handler for buttons |
+| `HiFiMockupMitNavigationDrawer` | [Link](https://github.com/MDecker-MobileComputing/Android_HiFiMockupMitNavigationDrawer) | App mit *Navigation Drawer*, zeigt statische Diagramme an | 
 | `ImpliziteIntents` | [Link](https://github.com/MDecker-MobileComputing/Android_ImpliziteIntents) | App demonstrating how to dispatch several implicit intents to start other apps |
 | `IntentCallback` | [Link](https://github.com/MDecker-MobileComputing/Android_IntentCallback) | App in which callback method for explicit intents is to be implemented |
 | `KilometerUmrechnung` | [Link](https://github.com/MDecker-MobileComputing/Android_KilometerUmrechnung) | App to demonstrate Unit Tests and Espresso Tests |
