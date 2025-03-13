@@ -16,6 +16,7 @@ List of all my GitHub repositories with Java-Projects (Eclipse-Projects, but not
 | `LangeBerechnung` | [Link](https://github.com/MDecker-MobileComputing/Java_LangeBerechnung) | Demo für lange Berechnung im Hintergrund mit Swing und JavaFX |
 | `Notenberechnung` | [Link](https://github.com/MDecker-MobileComputing/Java_Notenberechnung) | Privates Repo |
 | `ReihenfolgeObjekterzeugung` | [Link](https://github.com/MDecker-MobileComputing/Java_ReihenfolgeObjekterzeugung) | Kleine Programme zur Demonstration der Reihenfolge bei Objekterzeugung |
+| `RMI_Produktdatenbank` | [Link](https://github.com/MDecker-MobileComputing/Java_RMI_Produktdatenbank) | Übungsaufgabe für Java-RMI |
 | `RMI_Spitznamen` | [Link](https://github.com/MDecker-MobileComputing/Java_RMI_Spitznamen) | Demo für Java-RMI | 
 
 <br>
