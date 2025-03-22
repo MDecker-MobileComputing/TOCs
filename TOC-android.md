@@ -9,7 +9,8 @@ Repository with *Android Studio* projects for native Apps with Java.
 see also: 
 * Repos with tag [android](https://github.com/MDecker-MobileComputing?tab=repositories&q=topic%3Aandroid&type=source)
 * Repos with tag [android & github-actions](https://github.com/MDecker-MobileComputing?tab=repositories&q=topic%3Aandroid+topic%3Agithub-actions&type=source&language=&sort=)
-
+* Repos with tag [ma1](https://github.com/MDecker-MobileComputing?tab=repositories&q=topic%3Ama1&type=source) or
+                 [ma2](https://github.com/MDecker-MobileComputing?tab=repositories&q=topic%3Ama2&type=source)
 <br>
 
 | Name | Repo URL | Description |
