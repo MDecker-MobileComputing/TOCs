@@ -15,6 +15,7 @@ List of all my GitHub repositories with Java-Projects (Eclipse-Projects, but not
 | `Lambda_Streams` | [Link](https://github.com/MDecker-MobileComputing/Java_Lambda_Streams) | Demo-Programme zu Lambdas und Streams |
 | `LangeBerechnung` | [Link](https://github.com/MDecker-MobileComputing/Java_LangeBerechnung) | Demo für lange Berechnung im Hintergrund mit Swing und JavaFX |
 | `Notenberechnung` | [Link](https://github.com/MDecker-MobileComputing/Java_Notenberechnung) | Privates Repo |
+| `Rechenaufgabengenerator`| [Link](https://github.com/MDecker-MobileComputing/Java_Rechenaufgabengenerator) | Programm erzeugt einfache Rechenaufgaben samt Musterlösung, z.B. "103+11=?" |
 | `ReihenfolgeObjekterzeugung` | [Link](https://github.com/MDecker-MobileComputing/Java_ReihenfolgeObjekterzeugung) | Kleine Programme zur Demonstration der Reihenfolge bei Objekterzeugung |
 | `RMI_Produktdatenbank` | [Link](https://github.com/MDecker-MobileComputing/Java_RMI_Produktdatenbank) | Übungsaufgabe für Java-RMI |
 | `RMI_Spitznamen` | [Link](https://github.com/MDecker-MobileComputing/Java_RMI_Spitznamen) | Demo für Java-RMI | 
