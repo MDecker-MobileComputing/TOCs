@@ -44,6 +44,7 @@ All Maven projects are – if not mentioned otherwise – command line programs 
 | `SpringBoot_Produktdatenbank` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Produktdatenbank) | Displaying product details with Thymeleaf templates, to be completed as exercise |
 | `SpringBoot_RestClient` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_RestClient) | REST-Client für Abfrage bei [dieser Anwendung](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzKennzeichen) |
 | `SpringBoot_SLA` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_SLA) | Calculate allowed downtimes for SLA values, with Thymeleaf templates |
+| `SpringBoot_StringTools` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_StringTools) | REST-Endpunkt, der mit MockMVC unter Test zu nehmen ist |
 | `SpringBoot_Tagebuch` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Tagebuch) | Beispiel für `JdbcTemplate` und *Form-based Authentication* |
 | `SpringBoot_Vokalersetzung` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Vokalersetzung) | REST-API für Vokalersetzung ("Drei Chinesen mit dem Kontrobass"), als Übung zu vervollständigen |
 | `SpringBoot_WebLesezeichen` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_WebLesezeichen) | Beispiel für Baumstruktur mit *Spring Data JPA* |
