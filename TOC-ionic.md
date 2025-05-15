@@ -32,6 +32,7 @@ Since we use Ionic with Angular, and Angular uses TypeScript, there is also a pr
 | `KfzKennzeichen` | [Link](https://github.com/MDecker-MobileComputing/Ionic_KfzKennzeichen) | Query county/city codes of car number plates in Germany |
 | `KilometerUmrechnung` | [Link](https://github.com/MDecker-MobileComputing/Ionic_KilometerUmrechnung) | Transition to another page |
 | `KitchenTimer` | [Link](https://github.com/MDecker-MobileComputing/Ionic_KitchenTimer) | Kitchen timer app to demonstrate usage of [plugin for local notifications](https://capacitorjs.com/docs/apis/local-notifications) |
+| `Landeshauptstaedte` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Landeshauptstaedte) | Demo für Einbettung von *Google Maps* mit Capacitor-Plugin |
 | `ListenDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_ListenDemo) | Presenting lists in an Ionic app |
 | `Lottozahlen` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Lottozahlen) | App to be deployed as *Progressive Web App (PWA)* |
 | `MenueDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_MenueDemo) | "Hamburger Menu" for navigation in app |
