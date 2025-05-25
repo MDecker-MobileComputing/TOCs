@@ -33,6 +33,7 @@ All Maven projects are – if not mentioned otherwise – command line programs 
 | `SpringBoot_BMI` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BmiBerechnung/) | REST-Endpoint für BMI-Berechnung, Demo für Session-Beans |
 | `SpringBoot_EmailChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_EmailChecker) | Repo mit drei Anwendungen, um Load-Balancing mit einem Eureka-Server als Registry zu demonstrieren |
 | `SpringBoot_Glossar` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Glossar) | Demo for [JPA](https://en.wikipedia.org/wiki/Jakarta_Persistence) |
+| `SpringBoot_ISBN13` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_ISBN13Checker) | Demo für Demo von i18n (Übersetzbare Anzeigetexte) mit Thymeleaf-Templates |
 | `SpringBoot_KafkaDemo` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KafkaDemo) | Demo for sending and receiving messages via [Kafka](https://kafka.apache.org/) |
 | `SpringBoot_Kantinenplan`| [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Kantinenplan) | REST API for a canteen menue |
 | `SpringBoot_KfzKennzeichen` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzKennzeichen) | KFZ-Kennzeichen mit *Spring Data JPA* |
