@@ -42,6 +42,7 @@ All Maven projects are – if not mentioned otherwise – command line programs 
 | `SpringBoot_LinkShortener` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_LinkShortenerMitMongoDB) | Link-Shortner mit MongoDB |
 | `SpringBoot_Literaturverwaltung` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Literaturverwaltung) | Literaturverwaltung, *Spring Data JPA* mit Vererbung zwischen Entity-Klassen |
 | `SpringBoot_Passwortgrab` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Passwortgrab) | Simple password manager to demonstrate encryption of attribute classes and <i>Spring Data Envers</i> |
+| `SpringBoot_PersonalverwaltungMitNeo4j` | [Link](https://github.com/MDecker-MobileComputing/SpringBoot_PersonalverwaltungMitNeo4j) | Demo für die Graphdatenbank Neo4j |
 | `SpringBoot_Produktdatenbank` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Produktdatenbank) | Displaying product details with Thymeleaf templates, to be completed as exercise |
 | `SpringBoot_RestClient` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_RestClient) | REST-Client für Abfrage bei [dieser Anwendung](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzKennzeichen) |
 | `SpringBoot_SLA` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_SLA) | Calculate allowed downtimes for SLA values, with Thymeleaf templates |
