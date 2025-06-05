@@ -39,7 +39,7 @@ All Maven projects are – if not mentioned otherwise – command line programs 
 | `SpringBoot_KfzKennzeichen` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzKennzeichen) | KFZ-Kennzeichen mit *Spring Data JPA* |
 | `SpringBoot_KfzKennzeichenChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzKennzeichenChecker) | Überprüfung KFZ-Kennzeichen, ruft auch [diese REST-API](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzUnterscheidungszeichen) auf | 
 | `SpringBoot_KfzUnterscheidungszeichen` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzUnterscheidungszeichen) | REST-API for querying city/county code on German number plates (KFZ-Kennzeichen) |
-| `SpringBoot_LinkShortener` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_LinkShortenerMitMongoDB) | Link-Shortener mit MongoDB |
+| `SpringBoot_LinkShortener` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_LinkShortenerMitMongoDB) | Link-Shortener mit [MongoDB](https://www.mongodb.com/) |
 | `SpringBoot_Literaturverwaltung` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Literaturverwaltung) | Literaturverwaltung, *Spring Data JPA* mit Vererbung zwischen Entity-Klassen |
 | `SpringBoot_Passwortgrab` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Passwortgrab) | Simple password manager to demonstrate encryption of attribute classes and <i>Spring Data Envers</i> |
 | `SpringBoot_PersonalverwaltungMitNeo4j` | [Link](https://github.com/MDecker-MobileComputing/SpringBoot_PersonalverwaltungMitNeo4j) | Demo für die Graphdatenbank Neo4j: Verwaltung Personalhierarchie |
