@@ -12,10 +12,6 @@ All Maven projects are – if not mentioned otherwise – command line programs 
 
 | Name | Repo URL | Description |
 | ---- | -------- | ----------- |
-| `BadNews` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BadNews) | Beispiel für JPA mit Paginierung |
-| `BcryptCLI`| [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BcryptCLI) | CLI-Proggy für Verhashung von über STDIN eingegebenen Passwort mit Bcrypt |
-| `Bildergallerie` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Bildergallerie) | Beispiel für Speichern von Binärdateien (z.B. Bilder) in Datenbank mit JPA |
-| `BlogCMS` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BlogCMS) | Beispiel für CLOB mit JPA und RichtText-Editor im Frontend |
 | `BruchrechnerBibliothek` | [Link](https://github.com/MDecker-MobileComputing/Maven_BruchrechnerBibliothek) | Bibliothek für Bruchrechnungen |
 | `BruchrechnerBibliothekVerwender` | [Link](https://github.com/MDecker-MobileComputing/Maven_BruchrechnerBibliothekVerwender) | Anwendung, die die `BruchrechnerBibliothek` verwendet |
 | `Cucumber_Bruchrechnen` | [Link](https://github.com/MDecker-MobileComputing/Maven_Cucumber_Bruchrechnen) | Example for BDD with Cucumber, exercise |
@@ -29,6 +25,10 @@ All Maven projects are – if not mentioned otherwise – command line programs 
 | `PalindromChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_Palindromchecker) | Palindrom checker, for exercise on unit testing |
 | `PangrammChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_Pangrammchecker) | Pangramm checker, example for programming with *GitHub Copilot* |
 | `RestApiServerSprueche` | [Link](https://github.com/MDecker-MobileComputing/Maven_RestApiServerSprueche) | REST-API with embedded Jetty servlet container |
+| `SpringBoot_BadNews` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BadNews) | Beispiel für JPA mit Paginierung |
+| `SrpingBoot_BcryptCLI`| [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BcryptCLI) | CLI-Proggy für Verhashung von über STDIN eingegebenen Passwort mit Bcrypt |
+| `SpringBoot_Bildergallerie` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Bildergallerie) | Beispiel für Speichern von Binärdateien (z.B. Bilder) in Datenbank mit JPA |
+| `SpringBoot_BlogCMS` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BlogCMS) | Beispiel für CLOB mit JPA und RichtText-Editor im Frontend |
 | `SpringBoot_Buchabfrage` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Buchabfrage) | Two applications to demonstrate client-side load balancing with *Spring Cloud* |
 | `SpringBoot_BMI` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BmiBerechnung/) | REST-Endpoint für BMI-Berechnung, Demo für Session-Beans |
 | `SpringBoot_EmailChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_EmailChecker) | Repo mit drei Anwendungen, um Load-Balancing mit einem Eureka-Server als Registry zu demonstrieren |
