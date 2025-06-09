@@ -44,6 +44,7 @@ All Maven projects are – if not mentioned otherwise – command line programs 
 | `SpringBoot_Passwortgrab` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Passwortgrab) | Simple password manager to demonstrate encryption of attribute classes and <i>Spring Data Envers</i> |
 | `SpringBoot_PersonalverwaltungMitNeo4j` | [Link](https://github.com/MDecker-MobileComputing/SpringBoot_PersonalverwaltungMitNeo4j) | Demo für die Graphdatenbank Neo4j: Verwaltung Personalhierarchie |
 | `SpringBoot_Produktdatenbank` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Produktdatenbank) | Displaying product details with Thymeleaf templates, to be completed as exercise |
+| `SpringBoot_ReminderPerEmail` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_ReminderPerEmail) | Persönliche Reminder via Email; Demo für Versenden von Emails mit Spring Boot |
 | `SpringBoot_KfzHalterAbfrage` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzHalterAbfrage) | REST-Client mit Retry und Caching für Abfrage KFZ-Halter bei [dieser Anwendung](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzKennzeichen) |
 | `SpringBoot_SLA` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_SLA) | Calculate allowed downtimes for SLA values, with Thymeleaf templates |
 | `SpringBoot_StringTools` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_StringTools) | REST-Endpunkt, der mit MockMVC unter Test zu nehmen ist |
