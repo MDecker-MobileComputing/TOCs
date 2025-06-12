@@ -36,6 +36,7 @@ All Maven projects are – if not mentioned otherwise – command line programs 
 | `SpringBoot_ISBN13` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_ISBN13Checker) | Demo für Demo von i18n (Übersetzbare Anzeigetexte) mit Thymeleaf-Templates |
 | `SpringBoot_KafkaDemo` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KafkaDemo) | Demo for sending and receiving messages via [Kafka](https://kafka.apache.org/) |
 | `SpringBoot_Kantinenplan`| [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Kantinenplan) | REST API for a canteen menue |
+| `SpringBoot_KfzHalterAbfrage` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzHalterAbfrage) | REST-Client mit Retry und Caching für Abfrage KFZ-Halter bei [dieser Anwendung](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzKennzeichen) |
 | `SpringBoot_KfzKennzeichen` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzKennzeichen) | KFZ-Kennzeichen mit *Spring Data JPA* |
 | `SpringBoot_KfzKennzeichenChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzKennzeichenChecker) | Überprüfung KFZ-Kennzeichen, ruft auch [diese REST-API](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzUnterscheidungszeichen) auf | 
 | `SpringBoot_KfzUnterscheidungszeichen` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzUnterscheidungszeichen) | REST-API for querying city/county code on German number plates (KFZ-Kennzeichen) |
@@ -45,7 +46,7 @@ All Maven projects are – if not mentioned otherwise – command line programs 
 | `SpringBoot_PersonalverwaltungMitNeo4j` | [Link](https://github.com/MDecker-MobileComputing/SpringBoot_PersonalverwaltungMitNeo4j) | Demo für die Graphdatenbank Neo4j: Verwaltung Personalhierarchie |
 | `SpringBoot_Produktdatenbank` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Produktdatenbank) | Displaying product details with Thymeleaf templates, to be completed as exercise |
 | `SpringBoot_ReminderPerEmail` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_ReminderPerEmail) | Persönliche Reminder via Email; Demo für Versenden von Emails mit Spring Boot |
-| `SpringBoot_KfzHalterAbfrage` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzHalterAbfrage) | REST-Client mit Retry und Caching für Abfrage KFZ-Halter bei [dieser Anwendung](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzKennzeichen) |
+| `SpringBoot_HttpSessionMitRedisTeilen` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_HttpSessionMitRedisTeilen) | Redis als Cache für HTTP-Sessions für zwei SpringBoot-Apps hinter einem *Load Balancer* |
 | `SpringBoot_SLA` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_SLA) | Calculate allowed downtimes for SLA values, with Thymeleaf templates |
 | `SpringBoot_StringTools` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_StringTools) | REST-Endpunkt, der mit MockMVC unter Test zu nehmen ist |
 | `SpringBoot_Tagebuch` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Tagebuch) | Beispiel für `JdbcTemplate` und *Form-based Authentication* |
