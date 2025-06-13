@@ -18,6 +18,7 @@ see also: Repos with tag [docker](https://github.com/MDecker-MobileComputing?tab
 | `Maven_SpringBoot_KafkaDemo` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KafkaDemo) | NA | Java program demonstrating how to send and receive Kafka messages |
 | `Java_RestApi_SpringBoot` | [Link](https://github.com/MDecker-MobileComputing/Java_RestApi_SpringBoot) | NA | Spring Boot app providing several REST endpoints packaged in Docker container |
 | `Maven_SpringBoot_Bildergallerie` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Bildergallerie) | NA | Bildergallerie, kann auch PostgreSQL in Container verwenden (siehe `maven_start_postgres.bat`) |
+| `Maven_SpringBoot_HttpSessionMitRedisTeilen` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_HttpSessionMitRedisTeilen) | NA | Redis und Nginx als *Load Balancer* |
 | `Maven_SpringBoot_KfzUnterscheidungszeichen` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzUnterscheidungszeichen) | [Link](https://hub.docker.com/repository/docker/mide76/kfz-kennzeichen/general) | REST-API to query the codes on German number plates for car |
 | `Maven_SpringBoot_LinkShortener` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_LinkShortener) | NA | Link shortener with microservice architecture |
 
