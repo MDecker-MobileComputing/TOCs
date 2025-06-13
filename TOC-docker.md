@@ -22,6 +22,7 @@ see also: Repos with tag [docker](https://github.com/MDecker-MobileComputing?tab
 | `Maven_SpringBoot_KfzUnterscheidungszeichen` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzUnterscheidungszeichen) | [Link](https://hub.docker.com/repository/docker/mide76/kfz-kennzeichen/general) | REST-API to query the codes on German number plates for car |
 | `Maven_SpringBoot_LinkShortener` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_LinkShortener) | NA | Link shortener with microservice architecture |
 | `Maven_SpringBoot_LinkShortenerMitMongoDB` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_LinkShortenerMitMongoDB) | NA | Link-Shortener mit MongoDB als Monolith |
+| `Maven_SpringBoot_PersonalverwaltungMitNeo4j` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_PersonalverwaltungMitNeo4j) | NA | Personalverwaltung mit Graphdatenbank "Neo4j" |
 
 <br>
 
