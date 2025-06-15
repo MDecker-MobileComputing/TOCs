@@ -15,7 +15,7 @@ see also: Repos with tag [docker](https://github.com/MDecker-MobileComputing?tab
 | ---- | -------- | ------- | ------------ |
 | `docker_nginx4html` | [Link](https://github.com/MDecker-MobileComputing/docker_nginx4html) | N/A | Simple HTML file served by nginx on Alpine Linux; [README with tutorial of Docker commands](https://github.com/MDecker-MobileComputing/docker_nginx4html/blob/master/README.md#docker-befehle) | 
 | `GidpodConfig` | [Link](https://github.com/MDecker-MobileComputing/GitpodConfig) |NA | Custom configuration for a workspace at [gitpod.io](https://gitpod.io) |
-| `Maven_SpringBoot_Buchabfrage` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Buchabfrage) | NA | Beispiel für Load Balancing mit zwei Microservices; Log-Nachrichten werden in Docker laufenden ELK-Stack geschickt |
+| `Maven_SpringBoot_Buchabfrage` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Buchabfrage) | NA | Beispiel für *Load Balancing* mit zwei Microservices; Log-Nachrichten werden in Docker laufenden ELK-Stack geschickt |
 | `Maven_SpringBoot_KafkaDemo` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KafkaDemo) | NA | Java program demonstrating how to send and receive Kafka messages |
 | `Java_RestApi_SpringBoot` | [Link](https://github.com/MDecker-MobileComputing/Java_RestApi_SpringBoot) | NA | Spring Boot app providing several REST endpoints packaged in Docker container |
 | `Maven_SpringBoot_Bildergallerie` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Bildergallerie) | NA | Bildergallerie, kann auch PostgreSQL in Container verwenden (siehe `maven_start_postgres.bat`) |
