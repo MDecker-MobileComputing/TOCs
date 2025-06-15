@@ -24,6 +24,8 @@ see also: Repos with tag [docker](https://github.com/MDecker-MobileComputing?tab
 | `Maven_SpringBoot_LinkShortenerMitMongoDB` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_LinkShortenerMitMongoDB) | NA | Link-Shortener mit MongoDB als Monolith |
 | `Maven_SpringBoot_PersonalverwaltungMitNeo4j` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_PersonalverwaltungMitNeo4j) | NA | Personalverwaltung mit Graphdatenbank "Neo4j" |
 
+| `Maven_SpringBoot_ggtMitRedisCaching` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_ggtMitRedisCaching) | NA | "Größter Gemeinsamer Teiler" (ggT) in gemeinsamen Redis-Cache |
+
 <br>
 
 For some of the repos the resulting images are published [by user "mide76"](https://hub.docker.com/u/mide76) on *Docker Hub*.
