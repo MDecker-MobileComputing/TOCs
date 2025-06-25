@@ -43,6 +43,7 @@ Since we use Ionic with Angular, and Angular uses TypeScript, there is also a pr
 | `ReorderDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Reorder) | Demo for Ionic's [Reorder](https://ionicframework.com/docs/api/reorder) element | 
 | `StringVergleich` | [Link](https://github.com/MDecker-MobileComputing/Ionic_StringVergleich) | App to compare the length of two strings entered by user, to be completed as exercise |
 | `TierheimTiere` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Tierheimtiere) | App showing how to use [tabs](https://ionicframework.com/docs/api/tabs) |
+| `Verleihliste` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Verleihliste) | Demo für Template-Projekt "list" |
 | `WebSocketDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_WebSocketClient) | WebSocket/STOMP-Client for [this WebSocket/STOMP-Server](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_WebSockets) |
 | `WeitereUiKomponenten` | [Link](https://github.com/MDecker-MobileComputing/Ionic_WeitereUiKomponenten) | Demo for several UI elements provided by Ionic |
 | `Wuerfel` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Wuerfel) | Dice app which fetches real random data from a Web-API |
