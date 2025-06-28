@@ -42,6 +42,7 @@ All Maven projects are – if not mentioned otherwise – command line programs 
 | `SpringBoot_KfzKennzeichen` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzKennzeichen) | KFZ-Kennzeichen mit *Spring Data JPA* |
 | `SpringBoot_KfzKennzeichenChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzKennzeichenChecker) | Überprüfung KFZ-Kennzeichen, ruft auch [diese REST-API](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzUnterscheidungszeichen) auf | 
 | `SpringBoot_KfzUnterscheidungszeichen` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzUnterscheidungszeichen) | REST-API for querying city/county code on German number plates (KFZ-Kennzeichen) |
+| `SpringBoot_Kinoprogramm` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Kinoprogramm) | App für Demo Cassandra-DB |
 | `SpringBoot_LinkBaum` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_LinkBaum) | Link-Baum mit *Spring Data Redis* | 
 | `SpringBoot_LinkShortener` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_LinkShortenerMitMongoDB) | Link-Shortener mit [MongoDB](https://www.mongodb.com/) |
 | `SpringBoot_Literaturverwaltung` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Literaturverwaltung) | Literaturverwaltung, *Spring Data JPA* mit Vererbung zwischen Entity-Klassen |
