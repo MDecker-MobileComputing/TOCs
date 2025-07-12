@@ -45,6 +45,14 @@ see also: Repos with tag [gh-pages](https://github.com/MDecker-MobileComputing?t
 
 <br>
 
+## Supabase ##
+
+| Name | GHPages URL | Repo URL  |
+| -----| ------------| --------- |
+| Zitat des Tages | [Link](https://mdecker-mobilecomputing.github.io/HTML_Supabase_Zitate/) | [Link](https://github.com/MDecker-MobileComputing/HTML_Supabase_Zitate) |
+
+<br>
+
 ## Angular ##
 
 | Name | GHPages URL | Repo URL  |
