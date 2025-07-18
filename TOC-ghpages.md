@@ -84,6 +84,7 @@ see also: Repos with tag [gh-pages](https://github.com/MDecker-MobileComputing?t
 | JSON in JavaScript | [Link](https://mdecker-mobilecomputing.github.io/HTML_JSON_in_JavaScript/) | [Link](https://github.com/MDecker-MobileComputing/HTML_JSON_in_JavaScript) |
 | Blinking effect with generic data attribute | [Link](https://mdecker-mobilecomputing.github.io/HTML_BlinkEffekt/) | [Link](https://github.com/MDecker-MobileComputing/HTML_BlinkEffekt) |
 | Using SVG in HTML | [Link](https://mdecker-mobilecomputing.github.io/SVG_Demo/) | [Link](https://github.com/MDecker-MobileComputing/SVG_Demo) |
+| Lehrveranstaltungsprotokoll mit IndexedDB | [Link](https://mdecker-mobilecomputing.github.io/HTML_IndexedDB_Lehrveranstaltungsprotokoll/) | [Link](https://github.com/MDecker-MobileComputing/HTML_IndexedDB_Lehrveranstaltungsprotokoll) |
 
 <br>
 
