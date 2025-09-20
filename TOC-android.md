@@ -44,6 +44,7 @@ see also:
 | `Mail4Myself` | [Link](https://github.com/MDecker-MobileComputing/Android_Mails4Myself) | Private repo |
 | `NicknameGenerator` | [Link](https://github.com/MDecker-MobileComputing/Android_NicknameGenerator) | Demo how to display results of SQL query in RecyclerView |
 | `PegSolitaire` | [Link](https://github.com/MDecker-MobileComputing/Android_PegSolitaire) | Board game "Peg Solitaire" |
+| `RelativeLayout` |  [Link](https://github.com/MDecker-MobileComputing/Android_RelativLayoutDemo) | Demo für Relative-Layout |
 | `RomanHelden` | [Link](https://github.com/MDecker-MobileComputing/Android_RomanHelden) | Namensgenerator für Romanfiguren, demonstriert Verwendung von [PreferencesScreen](https://developer.android.com/develop/ui/views/components/settings?hl=de) |
 | `RessourcenDemo` | [Link](https://github.com/MDecker-MobileComputing/Android_RessourcenDemo) | Different types of resources |
 | `RestClientDemo` | [Link](https://github.com/MDecker-MobileComputing/Android_RestClientDemo) | App can call three different REST-APIs (two return JSON, the other an image) |
