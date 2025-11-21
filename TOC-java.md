@@ -12,7 +12,6 @@ List of all my GitHub repositories with Java-Projects (Eclipse-Projects, but not
 | `BruchRechner-DebuggerDemo` | [Link](https://github.com/MDecker-MobileComputing/Java_BruchRechner-DebuggerDemo) | Kleines Java-Programm zum Bruchrechnen, das einen Fehler enthält, der mit dem Debugger gefunden werden soll |
 | `HalloCodespace` | [Link](https://github.com/MDecker-MobileComputing/Java_HalloCodespace) | Repo vorkonfiguriert für Java-Programmierung in *GitHub Codespace* |
 | `KfzStream` | [Link](https://github.com/MDecker-MobileComputing/Java_KfzStream) | Stream mit KFZ-Objekten (Kennzeichen+PS), für Übung |
-| `Kreisumfang` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Kreisumfang) | Berechnung Kreisumfang als einfaches Beispiel für Thymeleaf-Templates |
 | `Lambda_Streams` | [Link](https://github.com/MDecker-MobileComputing/Java_Lambda_Streams) | Demo-Programme zu Lambdas und Streams |
 | `LangeBerechnung` | [Link](https://github.com/MDecker-MobileComputing/Java_LangeBerechnung) | Demo für lange Berechnung im Hintergrund mit Swing und JavaFX |
 | `Notenberechnung` | [Link](https://github.com/MDecker-MobileComputing/Java_Notenberechnung) | Privates Repo |
