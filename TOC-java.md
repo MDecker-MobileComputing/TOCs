@@ -14,6 +14,7 @@ List of all my GitHub repositories with Java-Projects (Eclipse-Projects, but not
 | `KfzStream` | [Link](https://github.com/MDecker-MobileComputing/Java_KfzStream) | Stream mit KFZ-Objekten (Kennzeichen+PS), für Übung |
 | `Lambda_Streams` | [Link](https://github.com/MDecker-MobileComputing/Java_Lambda_Streams) | Demo-Programme zu Lambdas und Streams |
 | `LangeBerechnung` | [Link](https://github.com/MDecker-MobileComputing/Java_LangeBerechnung) | Demo für lange Berechnung im Hintergrund mit Swing und JavaFX |
+| `LottozahlenGenerator` | [Link](https://github.com/MDecker-MobileComputing/Java_LottozahlenGenerator) | Erzeugt Zahlentipps für verschiedene Lottosysteme |
 | `Notenberechnung` | [Link](https://github.com/MDecker-MobileComputing/Java_Notenberechnung) | Privates Repo |
 | `Rechenaufgabengenerator`| [Link](https://github.com/MDecker-MobileComputing/Java_Rechenaufgabengenerator) | Programm erzeugt einfache Rechenaufgaben samt Musterlösung, z.B. "103+11=?" |
 | `ReihenfolgeObjekterzeugung` | [Link](https://github.com/MDecker-MobileComputing/Java_ReihenfolgeObjekterzeugung) | Kleine Programme zur Demonstration der Reihenfolge bei Objekterzeugung |
