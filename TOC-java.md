@@ -21,5 +21,6 @@ List of all my GitHub repositories with Java-Projects (Eclipse-Projects, but not
 | `RMI_Produktdatenbank` | [Link](https://github.com/MDecker-MobileComputing/Java_RMI_Produktdatenbank) | Übungsaufgabe für Java-RMI |
 | `RMI_Spitznamen` | [Link](https://github.com/MDecker-MobileComputing/Java_RMI_Spitznamen) | Demo für Java-RMI | 
 | `Singleton_IdGenerator` | [Link](https://github.com/MDecker-MobileComputing/Java_Singleton_IdGenerator) | Beispiel für Entwurfsmuster [Singleton](https://www.ionos.de/digitalguide/websites/web-entwicklung/was-ist-das-singleton-pattern/) |
+| `WrapperKlassen` | [Link](https://github.com/MDecker-MobileComputing/Java_WrapperKlassen) | Wrapper-Klassen in Java mit ArrayList |
 
 <br>
