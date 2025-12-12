@@ -22,6 +22,7 @@ see also: Repos with tag [express-js](https://github.com/MDecker-MobileComputing
 | `Laender` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_Express_Laender) | OpenAPI-first for REST-API, also using Winston+Morgan for logging. |
 | `LinkShortenerMitKafka` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_Express_LinkShortenerMitKafka) | Link-Shortener mit Template-Engine "nunjucks" und Kafka für Microservice-Kommunikation |
 | `LinkShortenerMitMQTT` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_Express_LinkShortenerMitMQTT) | Link-Shortener mit Template-Engine "nunjucks" und MQTT für Microservice-Kommunikation |
+| `Rest2Mqtt` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_MQTT_Rest2Mqtt) | String wird über REST-Endpunkt empfangen und über MQTT gesendet |
 | `StudiVerwaltung` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_Express_StudiVerwaltung) | Studi-Verwaltung mit Ressourcen & Collections |
 
 <br>
