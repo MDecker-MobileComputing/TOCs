@@ -20,7 +20,7 @@ see also: Repos with tag [express-js](https://github.com/MDecker-MobileComputing
 | `KfzKennzeichen` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_Express_KfzKennzeichen) | Demo für ohne und mit Ajax |
 | `KfzKennzeicherChecker` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_Express_KfzKennzeicherChecker) | Microservice, der anderen Microservice via HTTP-REST aufruft |
 | `KfzKennzeichenMitLowdb` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_Express_KfzKennzeichenMitLowdb) | Demo für REST-API mit Controller+Server |
-| `Laender` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_Express_Laender) | OpenAPI-first for REST-API, also using Winston+Morgan for logging. |
+| `Laender` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_Express_Laender) | REST-API mit "OpenAPI-first", verwendet auch Winston+Morgan für's Logging |
 | `LinkShortenerMitKafka` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_Express_LinkShortenerMitKafka) | Link-Shortener mit Template-Engine "nunjucks" und Kafka für Microservice-Kommunikation |
 | `LinkShortenerMitMQTT` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_Express_LinkShortenerMitMQTT) | Link-Shortener mit Template-Engine "nunjucks" und MQTT für Microservice-Kommunikation |
 | `Rest2Mqtt` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_MQTT_Rest2Mqtt) | String wird über REST-Endpunkt empfangen und über MQTT gesendet |
