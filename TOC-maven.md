@@ -36,6 +36,7 @@ All Maven projects are – if not mentioned otherwise – command line programs 
 | `SpringBoot_Glossar` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Glossar) | Demo für [JPA](https://en.wikipedia.org/wiki/Jakarta_Persistence) ohne "Spring Data"  |
 | `SpringBoot_ggT` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_ggtMitRedisCaching) | Berechnung von größter gemeinsamer Teiler (ggT) zweier Zahlen als Beispiel für Caching mit Redis |
 | `SpringBoot_ISBN13` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_ISBN13Checker) | Demo für Demo von i18n (Übersetzbare Anzeigetexte) mit Thymeleaf-Templates |
+| `SpringBoot_ISBN2Preis` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_ISBN2Preis) | REST-Endpunkt, der für ein über ISBN spezifiziertes Buch einen zufällig berechnen Preis zurückgibt |
 | `SpringBoot_IsbnChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_IsbnChecker/) | Vorlage Rechnerübung (Klasse aus *Common Validator* in Bean verpacken) | 
 | `SpringBoot_KafkaDemo` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KafkaDemo) | Demo for sending and receiving messages via [Kafka](https://kafka.apache.org/) |
 | `SpringBoot_Kantinenplan`| [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Kantinenplan) | REST API for a canteen menue |
