@@ -1,12 +1,18 @@
-# Maven: All my repositories #
+# Maven: Alle meine Repos #
 
 <br>
 
-List of all my GitHub repositories with [Maven](https://maven.apache.org/) projects (incl. "Spring Boot"-Projects).
+Liste aller meiner GitHub-Repos mit [Maven](https://maven.apache.org/)-Projekten (incl. "Spring Boot"-Projects).
 
-see also: Repos with tag [maven](https://github.com/MDecker-MobileComputing?tab=repositories&q=topic%3Amaven&type=source)
+siehe auch: Repos mit Tag [maven](https://github.com/MDecker-MobileComputing?tab=repositories&q=topic%3Amaven&type=source)
 
-All Maven projects are – if not mentioned otherwise – command line programs with Java.
+<br>
+
+## Ohne *Spring Boot* ##
+
+<br>
+
+Bei den folgenden Anwendungen handelt es sich um Kommandozeilenprogramme.
 
 <br>
 
@@ -25,6 +31,16 @@ All Maven projects are – if not mentioned otherwise – command line programs 
 | `PalindromChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_Palindromchecker) | Palindrom checker, for exercise on unit testing |
 | `PangrammChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_Pangrammchecker) | Pangramm checker, example for programming with *GitHub Copilot* |
 | `RestApiServerSprueche` | [Link](https://github.com/MDecker-MobileComputing/Maven_RestApiServerSprueche) | REST-API with embedded Jetty servlet container |
+| `UrlPruefer` | [Link](https://github.com/MDecker-MobileComputing/Maven_UrlPruefer) | Syntax-Check für URL (CLI) |
+
+<br>
+
+## Mit *Spring Boot* ##
+
+<br>
+
+| Name | Repo URL | Description |
+| ---- | -------- | ----------- |
 | `SpringBoot_BadNews` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BadNews) | Beispiel für JPA mit Paginierung |
 | `SpringBoot_BcryptCLI`| [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BcryptCLI) | CLI-Proggy für Verhashung von über STDIN eingegebenen Passwort mit Bcrypt |
 | `SpringBoot_Bildergallerie` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Bildergallerie) | Beispiel für Speichern von Binärdateien (z.B. Bilder) in Datenbank mit JPA |
@@ -63,7 +79,6 @@ All Maven projects are – if not mentioned otherwise – command line programs 
 | `SpringBoot_WebSockets` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_WebSockets) | Demo für Websockets |
 | `SpringBoot_Windchill` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_WindChill) | REST-Endpunkt für Berechnung gefühlter Temperatur bei Kälte (Windchill-Temperatur) |
 | `SpringBoot_Zitate` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Zitate) | Fuzzy-Suche mit [Apache Lucene](https://lucene.apache.org/) |
-| `UrlPruefer` | [Link](https://github.com/MDecker-MobileComputing/Maven_UrlPruefer) | Syntax-Check für URL (CLI) |
 
 <br>
 
