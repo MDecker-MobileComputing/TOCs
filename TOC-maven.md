@@ -12,26 +12,25 @@ siehe auch: Repos mit Tag [maven](https://github.com/MDecker-MobileComputing?tab
 
 <br>
 
-Bei den folgenden Anwendungen handelt es sich um Kommandozeilenprogramme.
+Bei den folgenden Anwendungen handelt es sich um Kommandozeilenprogramme wenn nicht was anderes in der Beschreibung steht.
 
 <br>
 
-| Name | Repo URL | Description |
-| ---- | -------- | ----------- |
+| Name | Repo URL | Beschreibung |
+| ---- | -------- | ------------ |
 | `BruchrechnerBibliothek` | [Link](https://github.com/MDecker-MobileComputing/Maven_BruchrechnerBibliothek) | Bibliothek für Bruchrechnungen |
 | `BruchrechnerBibliothekVerwender` | [Link](https://github.com/MDecker-MobileComputing/Maven_BruchrechnerBibliothekVerwender) | Anwendung, die die `BruchrechnerBibliothek` verwendet |
-| `Cucumber_Bruchrechnen` | [Link](https://github.com/MDecker-MobileComputing/Maven_Cucumber_Bruchrechnen) | Example for BDD with Cucumber, exercise |
-| `Cucumber_Datumsarithmetik` | [Link](https://github.com/MDecker-MobileComputing/Maven_Cucumber_Datumsarithmetik) | Example for BDD with Cucumber, date arithmetic |
-| `Cucumber_HashMapTest` | [Link](https://github.com/MDecker-MobileComputing/Maven_Cucumber_HashMap) | Example for BDD with Cucumber, exam preparation | 
-| `Cucumber_StringLaenge` | [Link](https://github.com/MDecker-MobileComputing/Maven_Cucumber_StringLaenge) | Example for BDD with Cucumber, int values in steps |
+| `Cucumber_Bruchrechnen` | [Link](https://github.com/MDecker-MobileComputing/Maven_Cucumber_Bruchrechnen) | Beispiel für BDD mit Cucumber |
+| `Cucumber_Datumsarithmetik` | [Link](https://github.com/MDecker-MobileComputing/Maven_Cucumber_Datumsarithmetik) | Beispiel für BDD mit Cucumber |
+| `Cucumber_HashMapTest` | [Link](https://github.com/MDecker-MobileComputing/Maven_Cucumber_HashMap) | Beispiel für BDD mit Cucumber, Klausurvorbereitung | 
+| `Cucumber_StringLaenge` | [Link](https://github.com/MDecker-MobileComputing/Maven_Cucumber_StringLaenge) | Beispiel für BDD mit Cucumber |
 | `gRPC_BMI` | [Link](https://github.com/MDecker-MobileComputing/Maven_gRPC_BMI) | gRPC-Client zur Durchführung einer BMI-Berechnung |
-| `Kehrbruch` | [Link](https://github.com/MDecker-MobileComputing/Maven_Kehrbruch) | Simple app for refactoring exercise |
-| `LinkShortener`| [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_LinkShortener) | Simple link shortener consisting of serveral microservices |
-| `Lottozahlen` | [Link](https://github.com/MDecker-MobileComputing/Maven_Lottozahlen) | Demo for GitHub Actions; [GH Actions Workflow]([https://github.com/MDecker-MobileComputing/Maven_Palindromchecker/tree/master/.github/workflows](https://github.com/MDecker-MobileComputing/Maven_Lottozahlen/tree/master/.github/workflows)) |
-| `PalindromChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_Palindromchecker) | Palindrom checker, for exercise on unit testing |
-| `PangrammChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_Pangrammchecker) | Pangramm checker, example for programming with *GitHub Copilot* |
-| `RestApiServerSprueche` | [Link](https://github.com/MDecker-MobileComputing/Maven_RestApiServerSprueche) | REST-API with embedded Jetty servlet container |
-| `UrlPruefer` | [Link](https://github.com/MDecker-MobileComputing/Maven_UrlPruefer) | Syntax-Check für URL (CLI) |
+| `Kehrbruch` | [Link](https://github.com/MDecker-MobileComputing/Maven_Kehrbruch) | Einfache Anwendung für eine Refactoring-Übung |
+| `Lottozahlen` | [Link](https://github.com/MDecker-MobileComputing/Maven_Lottozahlen) | Demo für GitHub Actions |
+| `PalindromChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_Palindromchecker) | Palindrom-Checker, für Übungsaufgabe |
+| `PangrammChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_Pangrammchecker) | Pangram-Checker |
+| `RestApiServerSprueche` | [Link](https://github.com/MDecker-MobileComputing/Maven_RestApiServerSprueche) | REST-API mit eingebettetem Jetty-Server |
+| `UrlPruefer` | [Link](https://github.com/MDecker-MobileComputing/Maven_UrlPruefer) | Syntax-Checker für URLs |
 
 <br>
 
@@ -39,8 +38,8 @@ Bei den folgenden Anwendungen handelt es sich um Kommandozeilenprogramme.
 
 <br>
 
-| Name | Repo URL | Description |
-| ---- | -------- | ----------- |
+| Name | Repo URL | Beschreibung |
+| ---- | -------- | ------------ |
 | `SpringBoot_BadNews` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BadNews) | Beispiel für JPA mit Paginierung |
 | `SpringBoot_BcryptCLI`| [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BcryptCLI) | CLI-Proggy für Verhashung von über STDIN eingegebenen Passwort mit Bcrypt |
 | `SpringBoot_Bildergallerie` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Bildergallerie) | Beispiel für Speichern von Binärdateien (z.B. Bilder) in Datenbank mit JPA |
@@ -63,7 +62,8 @@ Bei den folgenden Anwendungen handelt es sich um Kommandozeilenprogramme.
 | `SpringBoot_Kreisumfang` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Kreisumfang) | Berechnung Kreisumfang als einfaches Beispiel für Thymeleaf-Templates |
 | `SpringBoot_Kinoprogramm` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Kinoprogramm) | App für Demo Cassandra-DB |
 | `SpringBoot_LinkBaum` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_LinkBaum) | Link-Baum mit *Spring Data Redis* | 
-| `SpringBoot_LinkShortener` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_LinkShortenerMitMongoDB) | Link-Shortener mit [MongoDB](https://www.mongodb.com/) |
+| `SpringBoot_LinkShortener`| [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_LinkShortener) | Simple link shortener consisting of serveral microservices |
+| `SpringBoot_LinkShortenerMitMongoDB` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_LinkShortenerMitMongoDB) | Link-Shortener mit [MongoDB](https://www.mongodb.com/) |
 | `SpringBoot_Literaturverwaltung` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Literaturverwaltung) | Literaturverwaltung, *Spring Data JPA* mit Vererbung zwischen Entity-Klassen |
 | `SpringBoot_Passwortgrab` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Passwortgrab) | Simple password manager to demonstrate encryption of attribute classes and <i>Spring Data Envers</i> |
 | `SpringBoot_PersonalverwaltungMitNeo4j` | [Link](https://github.com/MDecker-MobileComputing/SpringBoot_PersonalverwaltungMitNeo4j) | Demo für die Graphdatenbank Neo4j: Verwaltung Personalhierarchie |
