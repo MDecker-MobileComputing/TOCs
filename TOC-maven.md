@@ -28,7 +28,7 @@ Bei den folgenden Anwendungen handelt es sich um Kommandozeilenprogramme wenn ni
 | `Kehrbruch` | [Link](https://github.com/MDecker-MobileComputing/Maven_Kehrbruch) | Einfache Anwendung für eine Refactoring-Übung |
 | `Lottozahlen` | [Link](https://github.com/MDecker-MobileComputing/Maven_Lottozahlen) | Demo für GitHub Actions |
 | `PalindromChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_Palindromchecker) | Palindrom-Checker, für Übungsaufgabe |
-| `PangrammChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_Pangrammchecker) | Pangram-Checker |
+| `PangrammChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_Pangrammchecker) | Pangramm-Checker |
 | `RestApiServerSprueche` | [Link](https://github.com/MDecker-MobileComputing/Maven_RestApiServerSprueche) | REST-API mit eingebettetem Jetty-Server |
 | `UrlPruefer` | [Link](https://github.com/MDecker-MobileComputing/Maven_UrlPruefer) | Syntax-Checker für URLs |
 
@@ -44,7 +44,7 @@ Bei den folgenden Anwendungen handelt es sich um Kommandozeilenprogramme wenn ni
 | `SpringBoot_BcryptCLI`| [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BcryptCLI) | CLI-Proggy für Verhashung von über STDIN eingegebenen Passwort mit Bcrypt |
 | `SpringBoot_Bildergallerie` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Bildergallerie) | Beispiel für Speichern von Binärdateien (z.B. Bilder) in Datenbank mit JPA |
 | `SpringBoot_BlogCMS` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BlogCMS) | Beispiel für CLOB mit JPA und RichtText-Editor im Frontend |
-| `SpringBoot_Buchabfrage` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Buchabfrage) | Two applications to demonstrate client-side load balancing with *Spring Cloud* |
+| `SpringBoot_Buchabfrage` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Buchabfrage) | Zwei Anwendungen, die client-seitiges *Load Balancing* mit *Spring Cloud* demonstrieren |
 | `SpringBoot_BMI` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BmiBerechnung/) | REST-Endpoint für BMI-Berechnung, Demo für Session-Beans |
 | `SpringBoot_EineFrage` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_EineFrage) | Demo für *Optimistic Locking* mit *Spring Data JPA* | 
 | `SpringBoot_EmailChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_EmailChecker) | Repo mit drei Anwendungen, um Load-Balancing mit einem Eureka-Server als Registry zu demonstrieren |
@@ -53,19 +53,19 @@ Bei den folgenden Anwendungen handelt es sich um Kommandozeilenprogramme wenn ni
 | `SpringBoot_ISBN13` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_ISBN13Checker) | Demo für Demo von i18n (Übersetzbare Anzeigetexte) mit Thymeleaf-Templates |
 | `SpringBoot_ISBN2Preis` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_ISBN2Preis) | REST-Endpunkt, der für ein über ISBN spezifiziertes Buch einen zufällig berechnen Preis zurückgibt |
 | `SpringBoot_IsbnChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_IsbnChecker/) | Vorlage Rechnerübung (Klasse aus *Common Validator* in Bean verpacken) | 
-| `SpringBoot_KafkaDemo` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KafkaDemo) | Demo for sending and receiving messages via [Kafka](https://kafka.apache.org/) |
-| `SpringBoot_Kantinenplan`| [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Kantinenplan) | REST API for a canteen menue |
+| `SpringBoot_KafkaDemo` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KafkaDemo) | Einfache Nachrichten mit [Kafka](https://kafka.apache.org/) senden und empfangen |
+| `SpringBoot_Kantinenplan`| [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Kantinenplan) | REST-API für Kantinenplan |
 | `SpringBoot_KfzHalterAbfrage` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzHalterAbfrage) | REST-Client mit Retry und Caching für Abfrage KFZ-Halter bei [dieser Anwendung](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzKennzeichen) |
 | `SpringBoot_KfzKennzeichen` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzKennzeichen) | KFZ-Kennzeichen mit *Spring Data JPA* |
 | `SpringBoot_KfzKennzeichenChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzKennzeichenChecker) | Überprüfung KFZ-Kennzeichen, ruft auch [diese REST-API](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzUnterscheidungszeichen) auf | 
-| `SpringBoot_KfzUnterscheidungszeichen` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzUnterscheidungszeichen) | REST-API for querying city/county code on German number plates (KFZ-Kennzeichen) |
+| `SpringBoot_KfzUnterscheidungszeichen` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_KfzUnterscheidungszeichen) | REST-API für Abfrage von Unterscheidungszeichen von dt. KFZ-Kennzeichen |
 | `SpringBoot_Kreisumfang` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Kreisumfang) | Berechnung Kreisumfang als einfaches Beispiel für Thymeleaf-Templates |
 | `SpringBoot_Kinoprogramm` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Kinoprogramm) | App für Demo Cassandra-DB |
 | `SpringBoot_LinkBaum` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_LinkBaum) | Link-Baum mit *Spring Data Redis* | 
-| `SpringBoot_LinkShortener`| [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_LinkShortener) | Simple link shortener consisting of serveral microservices |
+| `SpringBoot_LinkShortener`| [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_LinkShortener) | Einfacher *Link Shortener* bestehend aus mehreren Microservices |
 | `SpringBoot_LinkShortenerMitMongoDB` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_LinkShortenerMitMongoDB) | Link-Shortener mit [MongoDB](https://www.mongodb.com/) |
 | `SpringBoot_Literaturverwaltung` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Literaturverwaltung) | Literaturverwaltung, *Spring Data JPA* mit Vererbung zwischen Entity-Klassen |
-| `SpringBoot_Passwortgrab` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Passwortgrab) | Simple password manager to demonstrate encryption of attribute classes and <i>Spring Data Envers</i> |
+| `SpringBoot_Passwortgrab` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Passwortgrab) | Einfacher Passwortmanager umd Verschlüsselung von Attributklassen und *Spring Data Envers* zu demonstrieren |
 | `SpringBoot_PersonalverwaltungMitNeo4j` | [Link](https://github.com/MDecker-MobileComputing/SpringBoot_PersonalverwaltungMitNeo4j) | Demo für die Graphdatenbank Neo4j: Verwaltung Personalhierarchie |
 | `SpringBoot_Produktdatenbank` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Produktdatenbank) | Displaying product details with Thymeleaf templates, to be completed as exercise |
 | `SpringBoot_Rechenaufgabengenerator` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Rechenaufgabengenerator) | REST-Endpunkt, der zufällig erzeugte Rechenaufgaben als PDF-Datei liefert |
