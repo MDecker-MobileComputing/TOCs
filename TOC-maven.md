@@ -71,7 +71,7 @@ Bei den folgenden Anwendungen handelt es sich um Kommandozeilenprogramme wenn ni
 | `SpringBoot_Rechenaufgabengenerator` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Rechenaufgabengenerator) | REST-Endpunkt, der zufällig erzeugte Rechenaufgaben als PDF-Datei liefert |
 | `SpringBoot_ReminderPerEmail` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_ReminderPerEmail) | Persönliche Reminder via Email; Demo für Versenden von Emails mit Spring Boot und Push-Metriken mit InfluxDB+Grafana |
 | `SpringBoot_HttpSessionMitRedisTeilen` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_HttpSessionMitRedisTeilen) | Redis als Cache für HTTP-Sessions für zwei SpringBoot-Apps hinter einem *Load Balancer* |
-| `SpringBoot_SLA` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_SLA) | Calculate allowed downtimes for SLA values, with Thymeleaf templates |
+| `SpringBoot_SLA` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_SLA) | Berechnen Sie zulässige Ausfallzeiten für SLA-Werte mit Thymeleaf-Templates |
 | `SpringBoot_StringTools` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_StringTools) | REST-Endpunkt, der mit MockMVC unter Test zu nehmen ist |
 | `SpringBoot_Tagebuch` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Tagebuch) | Beispiel für `JdbcTemplate` und *Form-based Authentication* |
 | `SpringBoot_Vokalersetzung` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Vokalersetzung) | REST-API für Vokalersetzung ("Drei Chinesen mit dem Kontrobass"), als Übung zu vervollständigen |
