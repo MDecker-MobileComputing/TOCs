@@ -35,7 +35,7 @@ see also:
 | `ImpliziteIntents` | [Link](https://github.com/MDecker-MobileComputing/Android_ImpliziteIntents) | App demonstrating how to dispatch several implicit intents to start other apps |
 | `IntentCallback` | [Link](https://github.com/MDecker-MobileComputing/Android_IntentCallback) | App in which callback method for explicit intents is to be implemented |
 | `KilometerUmrechnung` | [Link](https://github.com/MDecker-MobileComputing/Android_KilometerUmrechnung) | App to demonstrate Unit Tests and Espresso Tests |
-| `Komplementaerfarben` | [Link](https://github.com/MDecker-MobileComputing/Android_Komplementaerfarben) | App to demonstrate ViewModel |
+| `Komplementaerfarben` | [Link](https://github.com/MDecker-MobileComputing/Android_Komplementaerfarben) | App to demonstrate [ViewModel](https://developer.android.com/reference/kotlin/androidx/lifecycle/ViewModel) |
 | `LangeBerechnungMitFortschrittsanzeige` | [Link](https://github.com/MDecker-MobileComputing/Android_LangeBerechnungMitFortschrittsanzeige) | Example for running long tasks in background thread with progress indicator |
 | `LanglaufendeOperationen` | [Link](https://github.com/MDecker-MobileComputing/Android_LanglaufendeOperationen) | Example for running long tasks in background thread |
 | `LayoutWahlZurLaufzeit` | [Link](https://github.com/MDecker-MobileComputing/Android_LayoutWahlZurLaufzeit) | Layout file to be loaded determined during runtime |
