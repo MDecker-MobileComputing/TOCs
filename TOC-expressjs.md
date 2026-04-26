@@ -27,7 +27,8 @@ see also: Repos with tag [express-js](https://github.com/MDecker-MobileComputing
 | `LinkShortenerMitKafka` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_Express_LinkShortenerMitKafka) | Link-Shortener mit Template-Engine "nunjucks" und Kafka für Microservice-Kommunikation |
 | `LinkShortenerMitMQTT` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_Express_LinkShortenerMitMQTT) | Link-Shortener mit Template-Engine "nunjucks" und MQTT für Microservice-Kommunikation |
 | `Rest2Mqtt` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_MQTT_Rest2Mqtt) | String wird über REST-Endpunkt empfangen und über MQTT gesendet |
-| `Redis_Produktdatenbank` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_Express_Redis_Produktdatenbank) | InMemory-Datenbank "Redis" für Verwaltung Zugriffszähler auf Produktdatenbank |
+| `Redis_LinkBaum` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_Express_Redis_LinkBaum) | InMemory-Datenbank Redis/Valkey für Speicherung von Link-Bäumen
+| `Redis_Produktdatenbank` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_Express_Redis_Produktdatenbank) | InMemory-Datenbank "Redis" für Verwaltung Zugriffszähler auf Produktseiten |
 | `StudiVerwaltung` | [Link](https://github.com/MDecker-MobileComputing/Nodejs_Express_StudiVerwaltung) | Studi-Verwaltung mit Ressourcen & Collections |
 
 <br>
