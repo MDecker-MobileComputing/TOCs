@@ -37,6 +37,7 @@ Since we use Ionic with Angular, and Angular uses TypeScript, there is also a pr
 | `Lottozahlen` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Lottozahlen) | App to be deployed as *Progressive Web App (PWA)* |
 | `MenueDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_MenueDemo) | "Hamburger Menu" for navigation in app |
 | `NotifikationenDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_NotifikationenDemo) | Demo für [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging?hl=de) |
+| `Notizen` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Notizen) | Notizen-App mit Firebase-Backend |
 | `PegSolitaire` | [Link](https://github.com/MDecker-MobileComputing/Ionic_PegSolitaire) | Board game [Peg Solitaire](https://en.wikipedia.org/wiki/Peg_solitaire) with Grid Layout |
 | `PipeDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_PipesDemo) | App for Angular pipes |
 | `PluginDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_PluginDemo) | App showing how to use several Capacitor plugins |
