@@ -25,6 +25,7 @@ Since we use Ionic with Angular, and Angular uses TypeScript, there is also a pr
 | `Datumsberechnung` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Datumsberechnung) | Calculate number of days between two days or add/substract number of days from a date |
 | `Farbwahl` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Farbwahl) | Demo for [UI component `ion-range` (Slider)](https://ionicframework.com/docs/api/range) |
 | `Gemini_AutomatischerTitel` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Gemini_AutomatischerTitel) | Editor mit automatischer Titelerzeugung als Beispiel für REST-Zugriff auf KI "Gemini" | 
+| `Gemini_AntwortenFuerSingleChoiceFragen` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Gemini_AntwortenSingleChoice) | App zur Erzeugung von Antwortoptionen für Single-Choice-Fragen über KI "Gemini" via Proxy |
 | `GeografischeEntfernung` | [Link](https://github.com/MDecker-MobileComputing/Ionic_GeografischeEntfernung) | Demo for getting current GPS location | 
 | `HalloName` | [Link](https://github.com/MDecker-MobileComputing/Ionic_HalloName) | Introductory example with event handler for button |
 | `IataCodes` | [Link](https://github.com/MDecker-MobileComputing/Ionic_IataCodes) | App to query IATA codes for airlines & airports to demonstrate automatic tests |
