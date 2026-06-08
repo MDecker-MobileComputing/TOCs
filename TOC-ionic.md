@@ -52,7 +52,7 @@ Since we use Ionic with Angular, and Angular uses TypeScript, there is also a pr
 | `Verleihliste` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Verleihliste) | Demo für Template-Projekt "list" |
 | `WebSocketDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_WebSocketClient) | WebSocket/STOMP-Client for [this WebSocket/STOMP-Server](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_WebSockets) |
 | `WeitereUiKomponenten` | [Link](https://github.com/MDecker-MobileComputing/Ionic_WeitereUiKomponenten) | Demo for several UI elements provided by Ionic |
-| `Wuerfel` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Wuerfel) | Dice app which fetches real random data from a Web-API |
-| `ZitateVonSupabase` | [Link](https://github.com/MDecker-MobileComputing/Ionic_ZitateVonSupabase) | Zufällig ausgewählte Zitate von prominenten Leuten mit von einer auf Supabase gehosteten REST-API abrufen |
+| `Wuerfel` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Wuerfel) |Würfel-App, basierend auf echten Zufallszahlen, die von einer REST-API abgerufen werden |
+| `ZitateVonSupabase` | [Link](https://github.com/MDecker-MobileComputing/Ionic_ZitateVonSupabase) | Von einer auf Supabase gehostete REST-API zufällige Zitate von bekannten Persönlichkeiten abrufen |
 
 <br>
