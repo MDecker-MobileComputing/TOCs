@@ -45,6 +45,15 @@ see also: Repos with tag [gh-pages](https://github.com/MDecker-MobileComputing?t
 
 <br>
 
+## Ionic-Apps ##
+
+| Name | GHPages URL | Repo URL  |
+| -----| ------------| --------- |
+| Hallo Name  | [Link](https://mdecker-mobilecomputing.github.io/Ionic_HalloName/)   | [Link](https://github.com/MDecker-MobileComputing/Ionic_HalloName)  |
+| Lottozahlen | [Link](https://mdecker-mobilecomputing.github.io/Ionic_Lottozahlen/) | [Link](https://github.com/MDecker-MobileComputing/Ionic_Lottozahlen) |
+
+<br>
+
 ## IndexedDB ##
 
 | Name | GHPages URL | Repo URL  |
