@@ -49,11 +49,12 @@ Since we use Ionic with Angular, and Angular uses TypeScript, there is also a pr
 | `SchlagzeileVonWebApi` | [Link](https://github.com/MDecker-MobileComputing/Ionic_SchlagzeileVonWebAPI) | Demo für Abruf von Daten von einer Web/REST-API |
 | `StringVergleich` | [Link](https://github.com/MDecker-MobileComputing/Ionic_StringVergleich) | App to compare the length of two strings entered by user, to be completed as exercise |
 | `TierheimTiere` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Tierheimtiere) | App showing how to use [tabs](https://ionicframework.com/docs/api/tabs) |
-| `Supabase_Zitate` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Supabase_Zitate) | Von einer auf Supabase gehostete REST-API zufällige Zitate von bekannten 
+| `Supabase_Schimpfmeister` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Supabase_Schimpfmeister) | Vom Schimpfolino-Algorithmus zufällig erzeugte Schimpfwörter von einer auf Supabase gehosteten *Edge Function* abrufen |
+| `Supabase_Zitate` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Supabase_Zitate) | Von einer auf Supabase gehostete REST-API zufällige Zitate von bekannten Persönlichkeiten abrufen |
 | `Verleihliste` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Verleihliste) | Demo für Template-Projekt "list" |
 | `WebSocketDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_WebSocketClient) | WebSocket/STOMP-Client for [this WebSocket/STOMP-Server](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_WebSockets) |
 | `WeitereUiKomponenten` | [Link](https://github.com/MDecker-MobileComputing/Ionic_WeitereUiKomponenten) | Demo for several UI elements provided by Ionic |
 | `Wuerfel` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Wuerfel) |Würfel-App, basierend auf echten Zufallszahlen, die von einer REST-API abgerufen werden |
-Persönlichkeiten abrufen |
+
 
 <br>
