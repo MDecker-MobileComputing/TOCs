@@ -40,6 +40,7 @@ Bei den folgenden Anwendungen handelt es sich um Kommandozeilenprogramme wenn ni
 
 | Name | Repo URL | Beschreibung |
 | ---- | -------- | ------------ |
+| `SpringBoot_Antwortengenerator` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_AntwortenGeneratorCLI) | Konsole-App, die von einer über *Spring AI* angebundenen KI Antwortoptionen für Single-Choice-Fragen erzeugen lässt |
 | `SpringBoot_BadNews` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BadNews) | Beispiel für JPA mit Paginierung |
 | `SpringBoot_BcryptCLI`| [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BcryptCLI) | CLI-Proggy für Verhashung von über STDIN eingegebenen Passwort mit Bcrypt |
 | `SpringBoot_Bildergallerie` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Bildergallerie) | Beispiel für Speichern von Binärdateien (z.B. Bilder) in Datenbank mit JPA |
