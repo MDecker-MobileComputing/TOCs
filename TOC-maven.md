@@ -47,7 +47,7 @@ Bei den folgenden Anwendungen handelt es sich um Kommandozeilenprogramme wenn ni
 | `SpringBoot_BlogCMS` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BlogCMS) | Beispiel für CLOB mit JPA und RichtText-Editor im Frontend |
 | `SpringBoot_Buchabfrage` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Buchabfrage) | Zwei Anwendungen, die client-seitiges *Load Balancing* mit *Spring Cloud* demonstrieren |
 | `SpringBoot_BMI` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BmiBerechnung/) | REST-Endpoint für BMI-Berechnung, Demo für Session-Beans |
-| `SpringBoot_EineFrage` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_EineFrage) | Demo für *Optimistic Locking* mit *Spring Data JPA* | 
+| `SpringBoot_EineFrage` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_EineFrage) | Demo für *Optimistic Locking* mit *Spring Data JPA*, Mini-Umfrage | 
 | `SpringBoot_EmailChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_EmailChecker) | Repo mit drei Anwendungen, um Load-Balancing mit einem Eureka-Server als Registry zu demonstrieren |
 | `SpringBoot_Glossar` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Glossar) | Demo für [JPA](https://en.wikipedia.org/wiki/Jakarta_Persistence) ohne "Spring Data"  |
 | `SpringBoot_ggT` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_ggtMitRedisCaching) | Berechnung von größter gemeinsamer Teiler (ggT) zweier Zahlen als Beispiel für Caching mit Redis |
