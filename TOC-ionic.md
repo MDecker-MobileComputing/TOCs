@@ -18,43 +18,43 @@ Since we use Ionic with Angular, and Angular uses TypeScript, there is also a pr
 
 | Name | Repo URL | Description |
 | ---- | -------- | ----------- |
-| `AbkVerz` | [Link](https://github.com/MDecker-MobileComputing/Ionic_AbkVerz) | Example for storing data with [ionic storage](https://ionicframework.com/docs/angular/storage) |
-| `AlertDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_AlertDemo) | Demo for different dialogs |
+| `AbkVerz` | [Link](https://github.com/MDecker-MobileComputing/Ionic_AbkVerz) | Beispiel-App für Persistieren von Daten mit  [Ionic Storage](https://ionicframework.com/docs/angular/storage) |
+| `AlertDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_AlertDemo) | Verwendung verschiedener Arten von Dialogen (Alerts) |
 | `BilderDynamischLaden` | [Link](https://github.com/MDecker-MobileComputing/Ionic_BilderDynamischLaden) | Bild dynamisch von Flickr-Web-API laden | 
 | `Buchabfrage` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Buchabfrage) | Buchdetails anhand ISBN13 von Web-API abfragen; für Übungsaufgabe | 
-| `CanvasDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_CanvasDemo) | Drawing geometric shapes on a virtual canvas |
-| `ChartDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_ChartDemo) | Using [Chart.js](https://www.chartjs.org/) with Ionic |
+| `CanvasDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_CanvasDemo) | Zeichnen von geometrischen Figuren |
+| `ChartDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_ChartDemo) | Verwendung von [Chart.js](https://www.chartjs.org/) mit Ionic |
 | `Datumsberechnung` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Datumsberechnung) | Calculate number of days between two days or add/substract number of days from a date |
-| `Farbwahl` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Farbwahl) | Demo for [UI component `ion-range` (Slider)](https://ionicframework.com/docs/api/range) |
+| `Farbwahl` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Farbwahl) | Demo für UI-Komponente [`ion-range` (Slider)](https://ionicframework.com/docs/api/range) |
 | `Gemini_AutomatischerTitel` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Gemini_AutomatischerTitel) | Editor mit automatischer Titelerzeugung als Beispiel für REST-Zugriff auf KI "Gemini" | 
 | `Gemini_AntwortenFuerSingleChoiceFragen` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Gemini_AntwortenSingleChoice) | App zur Erzeugung von Antwortoptionen für Single-Choice-Fragen über KI "Gemini" via Proxy |
 | `GeografischeEntfernung` | [Link](https://github.com/MDecker-MobileComputing/Ionic_GeografischeEntfernung) | Demo for getting current GPS location | 
-| `HalloName` | [Link](https://github.com/MDecker-MobileComputing/Ionic_HalloName) | Introductory example with event handler for button |
-| `IataCodes` | [Link](https://github.com/MDecker-MobileComputing/Ionic_IataCodes) | App to query IATA codes for airlines & airports to demonstrate automatic tests |
-| `InfiniteDoom` | [Link](https://github.com/MDecker-MobileComputing/Ionic_InfiniteDoom) | App that show randomly generated bad news headlines in an [infinite scroll component](https://ionicframework.com/docs/api/infinite-scroll) |
-| `InformatikerSprueche`| [Link](https://github.com/MDecker-MobileComputing/Ionic_InformatikerSprueche) | Demo for translation of UI texts (i18n) |
-| `KfzKennzeichen` | [Link](https://github.com/MDecker-MobileComputing/Ionic_KfzKennzeichen) | Query county/city codes of car number plates in Germany |
+| `HalloName` | [Link](https://github.com/MDecker-MobileComputing/Ionic_HalloName) | Event-Handler für Button |
+| `IataCodes` | [Link](https://github.com/MDecker-MobileComputing/Ionic_IataCodes) | App um IATA-Codes für Flughäfen und Fluglinien abzufragen; Demo für Unit-Tests |
+| `InfiniteDoom` | [Link](https://github.com/MDecker-MobileComputing/Ionic_InfiniteDoom) | App zeigt zufällig erzeugte Negativschlagzeilen mit der [Infinite Scroll](https://ionicframework.com/docs/api/infinite-scroll)-Komponente |
+| `InformatikerSprueche`| [Link](https://github.com/MDecker-MobileComputing/Ionic_InformatikerSprueche) | Demo für Übersetzung von Anzeigetexten (i18n) |
+| `KfzKennzeichen` | [Link](https://github.com/MDecker-MobileComputing/Ionic_KfzKennzeichen) | Abfrage von KFZ-Unterscheidungszeichen (z.B. "B" für "Berlin") |
 | `KilometerUmrechnung` | [Link](https://github.com/MDecker-MobileComputing/Ionic_KilometerUmrechnung) | Transition to another page |
-| `KitchenTimer` | [Link](https://github.com/MDecker-MobileComputing/Ionic_KitchenTimer) | Kitchen timer app to demonstrate usage of [plugin for local notifications](https://capacitorjs.com/docs/apis/local-notifications) |
+| `KitchenTimer` | [Link](https://github.com/MDecker-MobileComputing/Ionic_KitchenTimer) | Küchen-Timer zur Demonstration [Capacitor-Plugin für lokale Benachrichtigungen](https://capacitorjs.com/docs/apis/local-notifications) |
 | `Landeshauptstaedte` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Landeshauptstaedte) | Demo für Einbettung von *Google Maps* mit Capacitor-Plugin |
-| `ListenDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_ListenDemo) | Presenting lists in an Ionic app |
-| `Lottozahlen` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Lottozahlen) | App to be deployed as *Progressive Web App (PWA)* |
+| `ListenDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_ListenDemo) | Listen |
+| `Lottozahlen` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Lottozahlen) | Tipp für deutsches Zahlenlotto "6 aus 49" erzeugen, als Demo für *Progressive Web-Apps (PWA)* |
 | `MenueDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_MenueDemo) | "Hamburger Menu" for navigation in app |
 | `NotifikationenDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_NotifikationenDemo) | Demo für [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging?hl=de) |
 | `Notizen` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Notizen) | Notizen-App mit Firebase-Backend |
-| `PegSolitaire` | [Link](https://github.com/MDecker-MobileComputing/Ionic_PegSolitaire) | Board game [Peg Solitaire](https://en.wikipedia.org/wiki/Peg_solitaire) with Grid Layout |
-| `PipeDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_PipesDemo) | App for Angular pipes |
-| `PluginDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_PluginDemo) | App showing how to use several Capacitor plugins |
-| `ReorderDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Reorder) | Demo for Ionic's [Reorder](https://ionicframework.com/docs/api/reorder) element | 
+| `PegSolitaire` | [Link](https://github.com/MDecker-MobileComputing/Ionic_PegSolitaire) | Brettspiel [Steckhalma](https://en.wikipedia.org/wiki/Peg_solitaire) mit Grid Layout |
+| `PipeDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_PipesDemo) | App demonstriert Angular-Pipes |
+| `PluginDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_PluginDemo) | App zeigt die Verwendung mehrerer [Capacitor-Plugins](https://capacitorjs.com/docs/plugins) |
+| `ReorderDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Reorder) | Verwendung von [Reorder](https://ionicframework.com/docs/api/reorder)-Element | 
 | `SchlagzeileVonWebApi` | [Link](https://github.com/MDecker-MobileComputing/Ionic_SchlagzeileVonWebAPI) | Demo für Abruf von Daten von einer Web/REST-API |
-| `StringVergleich` | [Link](https://github.com/MDecker-MobileComputing/Ionic_StringVergleich) | App to compare the length of two strings entered by user, to be completed as exercise |
-| `TierheimTiere` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Tierheimtiere) | App showing how to use [tabs](https://ionicframework.com/docs/api/tabs) |
+| `StringVergleich` | [Link](https://github.com/MDecker-MobileComputing/Ionic_StringVergleich) | App vergleicht die Länge von zwei Strings, als Vorlage für Übungsaufgabe |
+| `TierheimTiere` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Tierheimtiere) | Verwendung von [Tab-Navigation](https://ionicframework.com/docs/api/tabs) |
 | `Supabase_Schimpfmeister` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Supabase_Schimpfmeister) | Vom Schimpfolino-Algorithmus zufällig erzeugte Schimpfwörter von einer auf Supabase gehosteten *Edge Function* abrufen |
 | `Supabase_Zitate` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Supabase_Zitate) | Von einer auf Supabase gehostete REST-API zufällige Zitate von bekannten Persönlichkeiten abrufen |
 | `Verleihliste` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Verleihliste) | Demo für Template-Projekt "list" |
-| `WebSocketDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_WebSocketClient) | WebSocket/STOMP-Client for [this WebSocket/STOMP-Server](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_WebSockets) |
-| `WeitereUiKomponenten` | [Link](https://github.com/MDecker-MobileComputing/Ionic_WeitereUiKomponenten) | Demo for several UI elements provided by Ionic |
-| `Wuerfel` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Wuerfel) |Würfel-App, basierend auf echten Zufallszahlen, die von einer REST-API abgerufen werden |
+| `WebSocketDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_WebSocketClient) | WebSocket/STOMP-Client für [diesen WebSocket/STOMP-Server](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_WebSockets) |
+| `WeitereUiKomponenten` | [Link](https://github.com/MDecker-MobileComputing/Ionic_WeitereUiKomponenten) | Demo für verschiedene UI-Komponenten von Ionic |
+| `Wuerfel` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Wuerfel) | Würfel-App, basierend auf echten Zufallszahlen, die von einer REST-API abgerufen werden |
 
 
 <br>
