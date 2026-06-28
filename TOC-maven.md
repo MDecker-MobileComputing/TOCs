@@ -43,6 +43,7 @@ Bei den folgenden Anwendungen handelt es sich um Kommandozeilenprogramme wenn ni
 | `SpringBoot_Antwortengenerator` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_AntwortenGeneratorCLI) | Konsole-App, die von einer über *Spring AI* angebundenen KI Antwortoptionen für Single-Choice-Fragen erzeugen lässt |
 | `SpringBoot_BadNews` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BadNews) | Beispiel für JPA mit Paginierung |
 | `SpringBoot_BcryptCLI`| [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BcryptCLI) | CLI-Proggy für Verhashung von über STDIN eingegebenen Passwort mit Bcrypt |
+| `SpringBoot_Bildanalyse` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BildanalyseMitOllama) | Konsole-Proggy für Bilderkennung (Suche nach Tieren) 
 | `SpringBoot_Bildergallerie` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Bildergallerie) | Beispiel für Speichern von Binärdateien (z.B. Bilder) in Datenbank mit JPA |
 | `SpringBoot_BlogCMS` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_BlogCMS) | Beispiel für CLOB mit JPA und RichtText-Editor im Frontend |
 | `SpringBoot_Buchabfrage` | [Link](https://github.com/MDecker-MobileComputing/Maven_SpringBoot_Buchabfrage) | Zwei Anwendungen, die client-seitiges *Load Balancing* mit *Spring Cloud* demonstrieren |
