@@ -15,7 +15,8 @@ see also: Repos with tag [gh-pages](https://github.com/MDecker-MobileComputing?t
 
 | Name | GHPages URL | Repo URL  |
 | -----| ------------| --------- |
-| HTML Basics | [Link](https://mdecker-mobilecomputing.github.io/HTML_Grundlagen/) | [Link](https://github.com/MDecker-MobileComputing/HTML_Grundlagen) |
+| HTML Grundlagen (de) | [Link](https://mdecker-mobilecomputing.github.io/HTML_Grundlagen/) | [Link](https://github.com/MDecker-MobileComputing/HTML_Grundlagen) |
+| HTML Basics (en) | [Link](https://mdecker-mobilecomputing.github.io/HTML_Basics/) | [Link](https://github.com/MDecker-MobileComputing/HTML_Basics) |
 | HTML Dummy Page | [Link](https://mdecker-mobilecomputing.github.io/HTML_HomePageDummy) | [Link](https://github.com/MDecker-MobileComputing/HTML_HomePageDummy) |
 | HTML content to be put into hybrid Cordova/Capacitor container | [Link](https://mdecker-mobilecomputing.github.io/HTML_HalloCordova/) | [Link](https://github.com/MDecker-MobileComputing/HTML_HalloCordova) |
 | HTML: MPA vs SPA | [Link](https://mdecker-mobilecomputing.github.io/HTML_MPA-vs-SPA/) | [Link](https://github.com/MDecker-MobileComputing/HTML_MPA-vs-SPA) | 
