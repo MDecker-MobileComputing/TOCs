@@ -1,7 +1,10 @@
-# Table of Contents # 
+# Test Page # 
 
 <br>
 
-*Table of contents (TOC)* for some of the GitHub repos owned by [MDecker-MobileComputing](https://github.com/MDecker-MobileComputing?tab=repositories). 
+Die ist die HTML-Darstellung der von [GitHub Pages](https://docs.github.com/de/pages) 
+bereitgestellten [README.md](https://github.com/MDecker-MobileComputing/TOCs/blob/master/README.md). 
+
+*GitHub Pages* erkennt im veröffentlichten Verzeichnis die Dateien `index.md` und `README.md` als Homepage bereit.
 
 <br>
