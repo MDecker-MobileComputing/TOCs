@@ -21,6 +21,7 @@ see also: Repos with tag [gh-pages](https://github.com/MDecker-MobileComputing?t
 | HTML content to be put into hybrid Cordova/Capacitor container | [Link](https://mdecker-mobilecomputing.github.io/HTML_HalloCordova/) | [Link](https://github.com/MDecker-MobileComputing/HTML_HalloCordova) |
 | MPA vs SPA | [Link](https://mdecker-mobilecomputing.github.io/HTML_MPA-vs-SPA/) | [Link](https://github.com/MDecker-MobileComputing/HTML_MPA-vs-SPA) | 
 | Practice: Spot the errors (Karlsruhe Palace at the Blue Hour) | [Link](https://mdecker-mobilecomputing.github.io/HTML_SpotTheError/) | [Link](https://github.com/MDecker-MobileComputing/HTML_SpotTheError) |
+| Practice: Complete CSS file for web page "Joe Cocker" | N/A | [Link](https://github.com/MDecker-MobileComputing/HTML_JoeCocker) |
 
 <br>
 
