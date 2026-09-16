@@ -20,7 +20,7 @@ see also: Repos with tag [gh-pages](https://github.com/MDecker-MobileComputing?t
 | Dummy Page | [Link](https://mdecker-mobilecomputing.github.io/HTML_HomePageDummy) | [Link](https://github.com/MDecker-MobileComputing/HTML_HomePageDummy) |
 | HTML content to be put into hybrid Cordova/Capacitor container | [Link](https://mdecker-mobilecomputing.github.io/HTML_HalloCordova/) | [Link](https://github.com/MDecker-MobileComputing/HTML_HalloCordova) |
 | MPA vs SPA | [Link](https://mdecker-mobilecomputing.github.io/HTML_MPA-vs-SPA/) | [Link](https://github.com/MDecker-MobileComputing/HTML_MPA-vs-SPA) | 
-| Spot the errors (Karlsruhe Palace at the Blue Hour) | [Link](https://mdecker-mobilecomputing.github.io/HTML_SpotTheError/) | [Link](https://github.com/MDecker-MobileComputing/HTML_SpotTheError) |
+| Practice: Spot the errors (Karlsruhe Palace at the Blue Hour) | [Link](https://mdecker-mobilecomputing.github.io/HTML_SpotTheError/) | [Link](https://github.com/MDecker-MobileComputing/HTML_SpotTheError) |
 
 <br>
 
@@ -33,7 +33,7 @@ see also: Repos with tag [gh-pages](https://github.com/MDecker-MobileComputing?t
 | Dashboard Tiles | [Link](https://mdecker-mobilecomputing.github.io/CSS_DashboardKacheln/) | [Link](https://github.com/MDecker-MobileComputing/CSS_DashboardKacheln/) |
 | Fluid Layout with SASS | [Link](https://mdecker-mobilecomputing.github.io/CSS_mit_Sass/) | [Link](https://github.com/MDecker-MobileComputing/CSS_mit_Sass/) |
 | Tooltips mit *Custom Data Attributes* | [Link](https://mdecker-mobilecomputing.github.io/HTML_Tooltips/) | [Link](https://github.com/MDecker-MobileComputing/HTML_Tooltips) |
-| Extract Inline CSS Rules| [Link](https://mdecker-mobilecomputing.github.io/CSS_ExtractInlineRules/) | [Link](https://github.com/MDecker-MobileComputing/CSS_ExtractInlineRules) |
+| Practice: Extract Inline CSS Rules| [Link](https://mdecker-mobilecomputing.github.io/CSS_ExtractInlineRules/) | [Link](https://github.com/MDecker-MobileComputing/CSS_ExtractInlineRules) |
 
 <br>
 
