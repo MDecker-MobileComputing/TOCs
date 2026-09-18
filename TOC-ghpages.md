@@ -40,7 +40,7 @@ see also: Repos with tag [gh-pages](https://github.com/MDecker-MobileComputing?t
 
 ## Bootstrap 4+5 ##
 
-| Name | G HPages URL | Repo URL  |
+| Name | GH Pages URL | Repo URL  |
 | -----| ------------| --------- |
 | Android Glossary with Bootstrap 4 | [Link](https://mdecker-mobilecomputing.github.io/HTML_AndroidGlossarMitBootstrap/) | [Link](https://github.com/MDecker-MobileComputing/HTML_AndroidGlossarMitBootstrap) |
 | Apps with Bootstrap 4 & jQuery | [Link](https://mdecker-mobilecomputing.github.io/HTML_BootstrapUndJQuery/) | [Link](https://github.com/MDecker-MobileComputing/HTML_BootstrapUndJQuery) |
