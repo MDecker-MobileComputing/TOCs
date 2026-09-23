@@ -35,6 +35,7 @@ see also: Repos with tag [gh-pages](https://github.com/MDecker-MobileComputing?t
 | Fluid Layout with SASS | [Link](https://mdecker-mobilecomputing.github.io/CSS_mit_Sass/) | [Link](https://github.com/MDecker-MobileComputing/CSS_mit_Sass/) |
 | Tooltips mit *Custom Data Attributes* | [Link](https://mdecker-mobilecomputing.github.io/HTML_Tooltips/) | [Link](https://github.com/MDecker-MobileComputing/HTML_Tooltips) |
 | Practice: Extract Inline CSS Rules| [Link](https://mdecker-mobilecomputing.github.io/CSS_ExtractInlineRules/) | [Link](https://github.com/MDecker-MobileComputing/CSS_ExtractInlineRules) |
+| Practice: NPM Homepage with Flexbox | [Link](https://mdecker-mobilecomputing.github.io/HTML_NpmHomepage/) | [Link](https://mdecker-mobilecomputing.github.io/HTML_NpmHomepage/) |
 
 <br>
 
