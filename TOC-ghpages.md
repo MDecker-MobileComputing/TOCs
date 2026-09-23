@@ -46,7 +46,7 @@ see also: Repos with tag [gh-pages](https://github.com/MDecker-MobileComputing?t
 | Android Glossary with Bootstrap 4 | [Link](https://mdecker-mobilecomputing.github.io/HTML_AndroidGlossarMitBootstrap/) | [Link](https://github.com/MDecker-MobileComputing/HTML_AndroidGlossarMitBootstrap) |
 | Apps with Bootstrap 4 & jQuery | [Link](https://mdecker-mobilecomputing.github.io/HTML_BootstrapUndJQuery/) | [Link](https://github.com/MDecker-MobileComputing/HTML_BootstrapUndJQuery) |
 | Apps with Bootstrap 5 without custom JavaScript | [Link](https://mdecker-mobilecomputing.github.io/HTML_Bootstrap5_NoJavaScript/) | [Link](https://github.com/MDecker-MobileComputing/HTML_Bootstrap5_NoJavaScript/) |
-| Apps with Bootstrap 5 with custom JavaScript  | [Link](https://mdecker-mobilecomputing.github.io/HTML_Bootstrap5_MitJavaScript/) | [Link](https://github.com/MDecker-MobileComputing/HTML_Bootstrap5_MitJavaScript)
+| Apps with Bootstrap 5 with custom JavaScript  |  [Link](https://mdecker-mobilecomputing.github.io/HTML_Bootstrap5_WithJavaScript/) | [Link](https://github.com/MDecker-MobileComputing/HTML_Bootstrap5_WithJavaScript) |
 
 <br>
 
