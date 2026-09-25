@@ -30,7 +30,8 @@ see also: Repos with tag [gh-pages](https://github.com/MDecker-MobileComputing?t
 | Name | GH Pages URL | Repo URL  |
 | -----| ------------| --------- |
 | CSS Basics | [Link](https://mdecker-mobilecomputing.github.io/CSS_Grundlagen/) | [Link](https://github.com/MDecker-MobileComputing/CSS_Grundlagen/) |
-| Responsive Web-Design | [Link](https://mdecker-mobilecomputing.github.io/RWD_mit_CSS/) | [Link](https://github.com/MDecker-MobileComputing/RWD_mit_CSS/) |
+| Responsive Web-Design (alt) | [Link](https://mdecker-mobilecomputing.github.io/RWD_mit_CSS/) | [Link](https://github.com/MDecker-MobileComputing/RWD_mit_CSS/) |
+| Responsive Web-Design (neu) | [Link](https://mdecker-mobilecomputing.github.io/CSS_ResponsiveWebDesign/) | [Link](https://github.com/MDecker-MobileComputing/CSS_ResponsiveWebDesign) |
 | Dashboard Tiles | [Link](https://mdecker-mobilecomputing.github.io/CSS_DashboardKacheln/) | [Link](https://github.com/MDecker-MobileComputing/CSS_DashboardKacheln/) |
 | Fluid Layout with SASS | [Link](https://mdecker-mobilecomputing.github.io/CSS_mit_Sass/) | [Link](https://github.com/MDecker-MobileComputing/CSS_mit_Sass/) |
 | Tooltips mit *Custom Data Attributes* | [Link](https://mdecker-mobilecomputing.github.io/HTML_Tooltips/) | [Link](https://github.com/MDecker-MobileComputing/HTML_Tooltips) |
