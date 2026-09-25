@@ -64,9 +64,9 @@ see also: Repos with tag [gh-pages](https://github.com/MDecker-MobileComputing?t
 
 | Name | GH Pages URL | Repo URL  |
 | -----| ------------| --------- |
-| Alle meine Länder | [Link](https://mdecker-mobilecomputing.github.io/HTML_IndexedDB_AlleMeineLaender/) | [Link](https://github.com/MDecker-MobileComputing/HTML_IndexedDB_AlleMeineLaender) |
 | BucketList |  [Link](https://mdecker-mobilecomputing.github.io/HTML_IndexedDB_BucketList/) |  [Link](https://github.com/MDecker-MobileComputing/HTML_IndexedDB_BucketList) |
 | Lehrveranstaltungsprotokoll mit IndexedDB | [Link](https://mdecker-mobilecomputing.github.io/HTML_IndexedDB_Lehrveranstaltungsprotokoll/) | [Link](https://github.com/MDecker-MobileComputing/HTML_IndexedDB_Lehrveranstaltungsprotokoll) |
+| My Countries| [Link](https://mdecker-mobilecomputing.github.io/HTML_IndexedDB_MyCountries/) | [Link](https://github.com/MDecker-MobileComputing/HTML_IndexedDB_MyCountries) |
 
 <br>
 
