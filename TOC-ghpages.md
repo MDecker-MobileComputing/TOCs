@@ -112,6 +112,7 @@ see also: Repos with tag [gh-pages](https://github.com/MDecker-MobileComputing?t
 | Using SVG in HTML | [Link](https://mdecker-mobilecomputing.github.io/SVG_Demo/) | [Link](https://github.com/MDecker-MobileComputing/SVG_Demo) |
 | Rechenaufgabengenerator | [Link](https://mdecker-mobilecomputing.github.io/HTML_Rechenaufgabengenerator/) | [Link](https://github.com/MDecker-MobileComputing/HTML_Rechenaufgabengenerator) |
 | README.md in TOC-Repo | [Link](https://mdecker-mobilecomputing.github.io/TOCs/) | [Link](https://github.com/MDecker-MobileComputing/TOCs) | 
+| Browser game | [Link](https://mdecker-mobilecomputing.github.io/HTML_Game_EarthDefense/) | [Link](https://github.com/MDecker-MobileComputing/HTML_Game_EarthDefense) |
 
 <br>
 
