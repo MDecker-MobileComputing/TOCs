@@ -27,6 +27,7 @@ Bei den folgenden Anwendungen handelt es sich um Kommandozeilenprogramme wenn ni
 | `gRPC_BMI` | [Link](https://github.com/MDecker-MobileComputing/Maven_gRPC_BMI) | gRPC-Client zur Durchführung einer BMI-Berechnung |
 | `Kehrbruch` | [Link](https://github.com/MDecker-MobileComputing/Maven_Kehrbruch) | Einfache Anwendung für eine Refactoring-Übung |
 | `Lottozahlen` | [Link](https://github.com/MDecker-MobileComputing/Maven_Lottozahlen) | Demo für GitHub Actions |
+| `LiedDetailsVonKI` | [Link](https://github.com/MDecker-MobileComputing/Maven_LiedDetailsVonKI) | Details zu Interpret+Titel von KI/LLM via OpenRouter.ai abfragen |
 | `PalindromChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_Palindromchecker) | Palindrom-Checker, für Übungsaufgabe |
 | `PangrammChecker` | [Link](https://github.com/MDecker-MobileComputing/Maven_Pangrammchecker) | Pangramm-Checker |
 | `RestApiServerSprueche` | [Link](https://github.com/MDecker-MobileComputing/Maven_RestApiServerSprueche) | REST-API mit eingebettetem Jetty-Server |
