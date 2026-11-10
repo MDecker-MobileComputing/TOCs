@@ -29,7 +29,7 @@ Since we use Ionic with Angular, and Angular uses TypeScript, there is also a pr
 | `Gemini_AutomatischerTitel` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Gemini_AutomatischerTitel) | Editor mit automatischer Titelerzeugung als Beispiel für REST-Zugriff auf KI "Gemini" | 
 | `Gemini_AntwortenFuerSingleChoiceFragen` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Gemini_AntwortenSingleChoice) | App zur Erzeugung von Antwortoptionen für Single-Choice-Fragen über KI "Gemini" via Proxy |
 | `GeografischeEntfernung` | [Link](https://github.com/MDecker-MobileComputing/Ionic_GeografischeEntfernung) | Demo for getting current GPS location | 
-| `HalloName` | [Link](https://github.com/MDecker-MobileComputing/Ionic_HalloName) | Event-Handler für Button |
+| `HalloName` | [Link](https://github.com/MDecker-MobileComputing/Ionic_HalloName) | Event-Handler für Button; Einführungsbeispiel |
 | `IataCodes` | [Link](https://github.com/MDecker-MobileComputing/Ionic_IataCodes) | App um IATA-Codes für Flughäfen und Fluglinien abzufragen; Demo für Unit-Tests |
 | `InfiniteDoom` | [Link](https://github.com/MDecker-MobileComputing/Ionic_InfiniteDoom) | App zeigt zufällig erzeugte Negativschlagzeilen mit der [Infinite Scroll](https://ionicframework.com/docs/api/infinite-scroll)-Komponente |
 | `InformatikerSprueche`| [Link](https://github.com/MDecker-MobileComputing/Ionic_InformatikerSprueche) | Demo für Übersetzung von Anzeigetexten (i18n) |
