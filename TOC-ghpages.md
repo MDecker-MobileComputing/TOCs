@@ -55,6 +55,7 @@ see also: Repos with tag [gh-pages](https://github.com/MDecker-MobileComputing?t
 
 | Name | GH Pages URL | Repo URL  |
 | -----| ------------| --------- |
+| Datumsberechnung    | [Link](https://mdecker-mobilecomputing.github.io/Ionic_Datumsberechnung/)   | [Link](https://github.com/MDecker-MobileComputing/Ionic_Datumsberechnung) |
 | Hallo Name          | [Link](https://mdecker-mobilecomputing.github.io/Ionic_HalloName/)          | [Link](https://github.com/MDecker-MobileComputing/Ionic_HalloName)  |
 | Kilometerumrechnung | [Link](https://mdecker-mobilecomputing.github.io/Ionic_KilometerUmrechnung) | [Link](https://github.com/MDecker-MobileComputing/Ionic_KilometerUmrechnung) | 
 | Lottozahlen         | [Link](https://mdecker-mobilecomputing.github.io/Ionic_Lottozahlen/)        | [Link](https://github.com/MDecker-MobileComputing/Ionic_Lottozahlen) |
